@@ -1,0 +1,9 @@
+D:\Telerik\C#\homework\ConditionalStatements\ConvertNumbers\bin\Debug\ConvertNumbers.exe
+D:\Telerik\C#\homework\ConditionalStatements\ConvertNumbers\bin\Debug\ConvertNumbers.pdb
+D:\Telerik\C#\homework\ConditionalStatements\ConvertNumbers\obj\Debug\ConvertNumbers.exe
+D:\Telerik\C#\homework\ConditionalStatements\ConvertNumbers\obj\Debug\ConvertNumbers.pdb
+D:\Telerik\CSharpI\homework\ConditionalStatements\ConvertNumbers\obj\Debug\ConvertNumbers.exe
+D:\Telerik\CSharpI\homework\ConditionalStatements\ConvertNumbers\obj\Debug\ConvertNumbers.pdb
+D:\Telerik\CSharpI\homework\ConditionalStatements\ConvertNumbers\bin\Debug\ConvertNumbers.exe
+D:\Telerik\CSharpI\homework\ConditionalStatements\ConvertNumbers\bin\Debug\ConvertNumbers.pdb
+D:\Telerik\CSharpI\homework\ConditionalStatements\ConvertNumbers\obj\Debug\11.ConvertNumbers.csprojResolveAssemblyReference.cache

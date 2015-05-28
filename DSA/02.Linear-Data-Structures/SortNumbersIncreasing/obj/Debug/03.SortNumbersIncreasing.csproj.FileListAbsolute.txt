@@ -1,0 +1,9 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\SortNumbersIncreasing\bin\Debug\SortNumbersIncreasing.exe.config
+D:\Telerik\JSApi\homework\Linear-Data-Structures\SortNumbersIncreasing\bin\Debug\SortNumbersIncreasing.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\SortNumbersIncreasing\bin\Debug\SortNumbersIncreasing.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\SortNumbersIncreasing\obj\Debug\SortNumbersIncreasing.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\SortNumbersIncreasing\obj\Debug\SortNumbersIncreasing.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\SortNumbersIncreasing\obj\Debug\03.SortNumbersIncreasing.csprojResolveAssemblyReference.cache
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\SortNumbersIncreasing\bin\Debug\SortNumbersIncreasing.exe.config
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\SortNumbersIncreasing\obj\Debug\SortNumbersIncreasing.exe
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\SortNumbersIncreasing\obj\Debug\SortNumbersIncreasing.pdb

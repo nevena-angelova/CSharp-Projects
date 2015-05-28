@@ -1,0 +1,8 @@
+D:\Telerik\C#\Exam\Arrays\SortArrays\bin\Debug\SortArrays.exe
+D:\Telerik\C#\Exam\Arrays\SortArrays\bin\Debug\SortArrays.pdb
+D:\Telerik\C#\Exam\Arrays\SortArrays\obj\Debug\SortArrays.exe
+D:\Telerik\C#\Exam\Arrays\SortArrays\obj\Debug\SortArrays.pdb
+D:\Telerik\CSharpII\homework\Arrays\SortArrays\obj\Debug\SortArrays.exe
+D:\Telerik\CSharpII\homework\Arrays\SortArrays\obj\Debug\SortArrays.pdb
+D:\Telerik\CSharpII\homework\Arrays\SortArrays\bin\Debug\SortArrays.exe
+D:\Telerik\CSharpII\homework\Arrays\SortArrays\bin\Debug\SortArrays.pdb

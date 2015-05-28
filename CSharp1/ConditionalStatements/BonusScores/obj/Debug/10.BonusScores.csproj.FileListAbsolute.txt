@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\ConditionalStatements\BonusScores\bin\Debug\BonusScores.exe
+D:\Telerik\C#\homework\ConditionalStatements\BonusScores\bin\Debug\BonusScores.pdb
+D:\Telerik\C#\homework\ConditionalStatements\BonusScores\obj\Debug\BonusScores.exe
+D:\Telerik\C#\homework\ConditionalStatements\BonusScores\obj\Debug\BonusScores.pdb
+D:\Telerik\CSharpI\homework\ConditionalStatements\BonusScores\obj\Debug\BonusScores.exe
+D:\Telerik\CSharpI\homework\ConditionalStatements\BonusScores\obj\Debug\BonusScores.pdb

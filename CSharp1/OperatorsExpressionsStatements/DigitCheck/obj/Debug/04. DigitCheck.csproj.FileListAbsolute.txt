@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\DigitCheck\bin\Debug\DigitCheck.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\DigitCheck\bin\Debug\DigitCheck.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\DigitCheck\obj\Debug\DigitCheck.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\DigitCheck\obj\Debug\DigitCheck.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\DigitCheck\obj\Debug\DigitCheck.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\DigitCheck\obj\Debug\DigitCheck.pdb

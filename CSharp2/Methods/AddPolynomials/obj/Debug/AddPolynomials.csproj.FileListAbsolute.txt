@@ -1,0 +1,1 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\AddPolynomials\bin\Debug\AddPolynomials.exe.config

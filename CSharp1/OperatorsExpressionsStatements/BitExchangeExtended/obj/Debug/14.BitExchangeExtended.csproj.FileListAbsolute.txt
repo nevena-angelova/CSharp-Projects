@@ -1,0 +1,7 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitExchangeExtended\bin\Debug\BitExchangeExtended.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitExchangeExtended\bin\Debug\BitExchangeExtended.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitExchangeExtended\obj\Debug\14.BitExchangeExtended.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitExchangeExtended\obj\Debug\BitExchangeExtended.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitExchangeExtended\obj\Debug\BitExchangeExtended.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\BitExchangeExtended\obj\Debug\BitExchangeExtended.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\BitExchangeExtended\obj\Debug\BitExchangeExtended.pdb

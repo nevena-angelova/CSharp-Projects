@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitPositionCheck1\bin\Debug\BitPositionCheck1.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitPositionCheck1\bin\Debug\BitPositionCheck1.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitPositionCheck1\obj\Debug\BitPositionCheck1.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitPositionCheck1\obj\Debug\BitPositionCheck1.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\BitPositionCheck1\obj\Debug\BitPositionCheck1.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\BitPositionCheck1\obj\Debug\BitPositionCheck1.pdb

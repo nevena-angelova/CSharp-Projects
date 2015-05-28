@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\TextInTagsToUpper\bin\Debug\TextInTagsToUpper.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\TextInTagsToUpper\bin\Debug\TextInTagsToUpper.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\TextInTagsToUpper\obj\Debug\05.TextInTagsToUpper.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\TextInTagsToUpper\obj\Debug\TextInTagsToUpper.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\TextInTagsToUpper\obj\Debug\TextInTagsToUpper.pdb

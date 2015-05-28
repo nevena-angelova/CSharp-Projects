@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\NumeralSystems\SignedNumber\bin\Debug\SignedNumber.exe.config

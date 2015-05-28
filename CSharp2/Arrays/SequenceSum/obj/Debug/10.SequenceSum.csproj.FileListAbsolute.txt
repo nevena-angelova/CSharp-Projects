@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\Arrays\SequenceSum\bin\Debug\SequenceSum.exe
+D:\Telerik\CSharpII\homework\Arrays\SequenceSum\bin\Debug\SequenceSum.pdb
+D:\Telerik\CSharpII\homework\Arrays\SequenceSum\obj\Debug\10.SequenceSum.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Arrays\SequenceSum\obj\Debug\SequenceSum.exe
+D:\Telerik\CSharpII\homework\Arrays\SequenceSum\obj\Debug\SequenceSum.pdb

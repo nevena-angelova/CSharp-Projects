@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\DifferentWordsCount\bin\Debug\DifferentWordsCount.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\DifferentWordsCount\bin\Debug\DifferentWordsCount.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\DifferentWordsCount\obj\Debug\22.DifferentWordsCount.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\DifferentWordsCount\obj\Debug\DifferentWordsCount.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\DifferentWordsCount\obj\Debug\DifferentWordsCount.pdb

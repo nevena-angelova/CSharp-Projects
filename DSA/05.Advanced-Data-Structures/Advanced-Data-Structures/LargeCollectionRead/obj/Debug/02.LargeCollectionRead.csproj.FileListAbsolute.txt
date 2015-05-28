@@ -1,0 +1,8 @@
+D:\Telerik\DSA\homework\05.Advanced-Data-Structures\Advanced-Data-Structures\LargeCollectionRead\bin\Debug\LargeCollectionRead.exe.config
+D:\Telerik\DSA\homework\05.Advanced-Data-Structures\Advanced-Data-Structures\LargeCollectionRead\obj\Debug\02.LargeCollectionRead.csprojResolveAssemblyReference.cache
+D:\Telerik\DSA\homework\05.Advanced-Data-Structures\Advanced-Data-Structures\LargeCollectionRead\bin\Debug\LargeCollectionRead.exe
+D:\Telerik\DSA\homework\05.Advanced-Data-Structures\Advanced-Data-Structures\LargeCollectionRead\bin\Debug\LargeCollectionRead.pdb
+D:\Telerik\DSA\homework\05.Advanced-Data-Structures\Advanced-Data-Structures\LargeCollectionRead\bin\Debug\PowerCollections.dll
+D:\Telerik\DSA\homework\05.Advanced-Data-Structures\Advanced-Data-Structures\LargeCollectionRead\bin\Debug\PowerCollections.xml
+D:\Telerik\DSA\homework\05.Advanced-Data-Structures\Advanced-Data-Structures\LargeCollectionRead\obj\Debug\LargeCollectionRead.exe
+D:\Telerik\DSA\homework\05.Advanced-Data-Structures\Advanced-Data-Structures\LargeCollectionRead\obj\Debug\LargeCollectionRead.pdb

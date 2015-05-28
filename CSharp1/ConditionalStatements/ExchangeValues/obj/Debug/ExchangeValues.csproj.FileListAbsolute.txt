@@ -1,0 +1,1 @@
+D:\Telerik\C#\homework\ConditionalStatements\ExchangeValues\bin\Debug\ExchangeValues.exe.config

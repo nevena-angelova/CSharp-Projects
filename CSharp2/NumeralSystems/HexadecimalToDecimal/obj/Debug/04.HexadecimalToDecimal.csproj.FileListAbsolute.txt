@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe
+D:\Telerik\CSharpII\homework\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.pdb
+D:\Telerik\CSharpII\homework\NumeralSystems\HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.exe
+D:\Telerik\CSharpII\homework\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.pdb

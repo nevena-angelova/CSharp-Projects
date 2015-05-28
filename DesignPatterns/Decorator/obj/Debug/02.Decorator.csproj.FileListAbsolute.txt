@@ -1,0 +1,6 @@
+D:\Telerik\High-Quality Code\homework\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+D:\Telerik\High-Quality Code\homework\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+D:\Telerik\High-Quality Code\homework\DesignPatterns\Decorator\obj\Debug\Decorator.pdb
+D:\Telerik\High-Quality Code\homework\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+D:\Telerik\High-Quality Code\homework\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+D:\Telerik\High-Quality Code\homework\DesignPatterns\Decorator\obj\Debug\02.Decorator.csprojResolveAssemblyReference.cache

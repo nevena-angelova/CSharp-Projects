@@ -1,0 +1,6 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindEqualNumbersSequence\bin\Debug\FindEqualNumbersSequence.exe.config
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindEqualNumbersSequence\bin\Debug\FindEqualNumbersSequence.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindEqualNumbersSequence\bin\Debug\FindEqualNumbersSequence.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindEqualNumbersSequence\obj\Debug\04.FindEqualNumbersSequence.csprojResolveAssemblyReference.cache
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindEqualNumbersSequence\obj\Debug\FindEqualNumbersSequence.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindEqualNumbersSequence\obj\Debug\FindEqualNumbersSequence.pdb

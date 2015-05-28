@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\RemoveIndenticalLeters\bin\Debug\RemoveIndenticalLeters.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\RemoveIndenticalLeters\bin\Debug\RemoveIndenticalLeters.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\RemoveIndenticalLeters\obj\Debug\RemoveIndenticalLeters.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\RemoveIndenticalLeters\obj\Debug\RemoveIndenticalLeters.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\RemoveIndenticalLeters\obj\Debug\23.RemoveIndenticalLeters.csprojResolveAssemblyReference.cache

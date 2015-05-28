@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe.config

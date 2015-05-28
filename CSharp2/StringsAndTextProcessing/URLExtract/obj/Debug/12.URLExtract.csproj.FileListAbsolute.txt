@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\URLExtract\bin\Debug\URLExtract.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\URLExtract\bin\Debug\URLExtract.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\URLExtract\obj\Debug\12.URLExtract.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\URLExtract\obj\Debug\URLExtract.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\URLExtract\obj\Debug\URLExtract.pdb

@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceForbiddenWords\bin\Debug\ReplaceForbiddenWords.exe.config

@@ -1,0 +1,1 @@
+D:\Telerik\C#\Exam\Arrays\SequenceOf Sum\bin\Debug\SequenceOf Sum.exe.config

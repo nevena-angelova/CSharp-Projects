@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\NumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe
+D:\Telerik\CSharpII\homework\NumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.pdb
+D:\Telerik\CSharpII\homework\NumeralSystems\BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\NumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.exe
+D:\Telerik\CSharpII\homework\NumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.pdb

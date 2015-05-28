@@ -1,0 +1,6 @@
+D:\Telerik\C#\Exam\Arrays\MaxSumFromKMembers\obj\Debug\MaxSumFromKMembers.exe
+D:\Telerik\C#\Exam\Arrays\MaxSumFromKMembers\obj\Debug\MaxSumFromKMembers.pdb
+D:\Telerik\CSharpII\homework\Arrays\MaxSumFromKMembers\obj\Debug\MaxSumFromKMembers.exe
+D:\Telerik\CSharpII\homework\Arrays\MaxSumFromKMembers\obj\Debug\MaxSumFromKMembers.pdb
+D:\Telerik\CSharpII\homework\Arrays\MaxSumFromKMembers\bin\Debug\MaxSumFromKMembers.exe
+D:\Telerik\CSharpII\homework\Arrays\MaxSumFromKMembers\bin\Debug\MaxSumFromKMembers.pdb

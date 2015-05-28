@@ -1,0 +1,8 @@
+D:\Telerik\C#\homework\Loops\MinMaxNumber\bin\Debug\MinMaxNumber.exe.config
+D:\Telerik\C#\homework\Loops\MinMaxNumber\bin\Debug\MinMaxNumber.exe
+D:\Telerik\C#\homework\Loops\MinMaxNumber\bin\Debug\MinMaxNumber.pdb
+D:\Telerik\C#\homework\Loops\MinMaxNumber\obj\Debug\MinMaxNumber.exe
+D:\Telerik\C#\homework\Loops\MinMaxNumber\obj\Debug\MinMaxNumber.pdb
+D:\Telerik\CSharpI\homework\Loops\MinMaxNumber\bin\Debug\MinMaxNumber.exe.config
+D:\Telerik\CSharpI\homework\Loops\MinMaxNumber\obj\Debug\MinMaxNumber.exe
+D:\Telerik\CSharpI\homework\Loops\MinMaxNumber\obj\Debug\MinMaxNumber.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\FormatOutput\bin\Debug\FormatOutput.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\FormatOutput\bin\Debug\FormatOutput.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\FormatOutput\obj\Debug\11.FormatOutput.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\FormatOutput\obj\Debug\FormatOutput.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\FormatOutput\obj\Debug\FormatOutput.pdb

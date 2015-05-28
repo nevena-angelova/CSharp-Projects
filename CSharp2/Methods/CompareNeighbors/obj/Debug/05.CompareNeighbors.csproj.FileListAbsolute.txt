@@ -1,0 +1,10 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\CompareNeighbors\bin\Debug\CompareNeighbors.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\CompareNeighbors\bin\Debug\CompareNeighbors.pdb
+E:\nevena\Telerik\CSharpII\homework\Methods\CompareNeighbors\obj\Debug\05.CompareNeighbors.csprojResolveAssemblyReference.cache
+E:\nevena\Telerik\CSharpII\homework\Methods\CompareNeighbors\obj\Debug\CompareNeighbors.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\CompareNeighbors\obj\Debug\CompareNeighbors.pdb
+D:\Telerik\CSharpII\homework\Methods\CompareNeighbors\obj\Debug\CompareNeighbors.exe
+D:\Telerik\CSharpII\homework\Methods\CompareNeighbors\obj\Debug\CompareNeighbors.pdb
+D:\Telerik\CSharpII\homework\Methods\CompareNeighbors\obj\Debug\05.CompareNeighbors.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Methods\CompareNeighbors\bin\Debug\CompareNeighbors.exe
+D:\Telerik\CSharpII\homework\Methods\CompareNeighbors\bin\Debug\CompareNeighbors.pdb

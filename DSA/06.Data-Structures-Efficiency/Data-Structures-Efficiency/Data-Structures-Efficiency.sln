@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CoursesStudentsOrdered", "CoursesStudentsOrdered\01.CoursesStudentsOrdered.csproj", "{5926EFDE-A655-4267-92F6-0CC710F5104B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ArticleRangeSearch", "ArticleRangeSearch\02.ArticleRangeSearch.csproj", "{FB571F65-F67A-4C42-8E74-144C608C856C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.BiDictionaryImplement", "BiDctionary\03.BiDictionaryImplement.csproj", "{E42E20C2-A664-45E9-A7CC-D3E5BDC876E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5926EFDE-A655-4267-92F6-0CC710F5104B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5926EFDE-A655-4267-92F6-0CC710F5104B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5926EFDE-A655-4267-92F6-0CC710F5104B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5926EFDE-A655-4267-92F6-0CC710F5104B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB571F65-F67A-4C42-8E74-144C608C856C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB571F65-F67A-4C42-8E74-144C608C856C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB571F65-F67A-4C42-8E74-144C608C856C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB571F65-F67A-4C42-8E74-144C608C856C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42E20C2-A664-45E9-A7CC-D3E5BDC876E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42E20C2-A664-45E9-A7CC-D3E5BDC876E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42E20C2-A664-45E9-A7CC-D3E5BDC876E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42E20C2-A664-45E9-A7CC-D3E5BDC876E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

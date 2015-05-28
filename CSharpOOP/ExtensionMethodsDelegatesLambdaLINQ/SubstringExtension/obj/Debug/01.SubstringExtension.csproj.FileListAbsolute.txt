@@ -1,0 +1,3 @@
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\SubstringExtension\bin\Debug\SubstringExtension.exe.config
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\SubstringExtension\obj\Debug\SubstringExtension.exe
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\SubstringExtension\obj\Debug\SubstringExtension.pdb

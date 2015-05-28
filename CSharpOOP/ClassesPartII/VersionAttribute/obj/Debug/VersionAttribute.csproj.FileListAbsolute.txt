@@ -1,0 +1,5 @@
+D:\Telerik\OOP\homework\ClassesPartII\VersionAttribute\bin\Debug\VersionAttribute.exe
+D:\Telerik\OOP\homework\ClassesPartII\VersionAttribute\bin\Debug\VersionAttribute.pdb
+D:\Telerik\OOP\homework\ClassesPartII\VersionAttribute\obj\Debug\VersionAttribute.csprojResolveAssemblyReference.cache
+D:\Telerik\OOP\homework\ClassesPartII\VersionAttribute\obj\Debug\VersionAttribute.exe
+D:\Telerik\OOP\homework\ClassesPartII\VersionAttribute\obj\Debug\VersionAttribute.pdb

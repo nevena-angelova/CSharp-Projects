@@ -1,0 +1,10 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\CalculateN!\bin\Debug\CalculateN!.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\CalculateN!\bin\Debug\CalculateN!.pdb
+E:\nevena\Telerik\CSharpII\homework\Methods\CalculateN!\obj\Debug\10.CalculateN!.csprojResolveAssemblyReference.cache
+E:\nevena\Telerik\CSharpII\homework\Methods\CalculateN!\obj\Debug\CalculateN!.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\CalculateN!\obj\Debug\CalculateN!.pdb
+D:\Telerik\CSharpII\homework\Methods\CalculateN!\obj\Debug\CalculateN!.exe
+D:\Telerik\CSharpII\homework\Methods\CalculateN!\obj\Debug\CalculateN!.pdb
+D:\Telerik\CSharpII\homework\Methods\CalculateN!\bin\Debug\CalculateN!.exe
+D:\Telerik\CSharpII\homework\Methods\CalculateN!\bin\Debug\CalculateN!.pdb
+D:\Telerik\CSharpII\homework\Methods\CalculateN!\obj\Debug\10.CalculateN!.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Telerik\C#\homework\Loops\FactorialExpression\bin\Debug\FactorialExpression.exe
+D:\Telerik\C#\homework\Loops\FactorialExpression\bin\Debug\FactorialExpression.pdb
+D:\Telerik\C#\homework\Loops\FactorialExpression\obj\Debug\05.FactorialExpression.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\homework\Loops\FactorialExpression\obj\Debug\FactorialExpression.exe
+D:\Telerik\C#\homework\Loops\FactorialExpression\obj\Debug\FactorialExpression.pdb
+D:\Telerik\CSharpI\homework\Loops\FactorialExpression\obj\Debug\FactorialExpression.exe
+D:\Telerik\CSharpI\homework\Loops\FactorialExpression\obj\Debug\FactorialExpression.pdb

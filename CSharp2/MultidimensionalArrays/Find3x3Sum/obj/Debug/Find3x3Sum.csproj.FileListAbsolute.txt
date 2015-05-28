@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\Find3x3Sum\bin\Debug\Find3x3Sum.exe.config

@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CountSubstringInText\bin\Debug\CountSubstringInText.exe.config

@@ -1,0 +1,7 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PointCircleRectangle\bin\Debug\PointCircleRectangle.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PointCircleRectangle\obj\Debug\09.PointCircleRectangle.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PointCircleRectangle\obj\Debug\PointCircleRectangle.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PointCircleRectangle\obj\Debug\PointCircleRectangle.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\PointCircleRectangle\obj\Debug\PointCircleRectangle.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\PointCircleRectangle\obj\Debug\PointCircleRectangle.pdb

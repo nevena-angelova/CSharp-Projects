@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\Methods\GenericMathOperations\bin\Debug\GenericMathOperations.exe
+D:\Telerik\CSharpII\homework\Methods\GenericMathOperations\bin\Debug\GenericMathOperations.pdb
+D:\Telerik\CSharpII\homework\Methods\GenericMathOperations\obj\Debug\15.GenericMathOperations.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Methods\GenericMathOperations\obj\Debug\GenericMathOperations.exe
+D:\Telerik\CSharpII\homework\Methods\GenericMathOperations\obj\Debug\GenericMathOperations.pdb

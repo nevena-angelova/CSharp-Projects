@@ -1,0 +1,9 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ReverseNumbers\bin\Debug\ReverseNumbers.exe.config
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ReverseNumbers\obj\Debug\ReverseNumbers.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ReverseNumbers\obj\Debug\ReverseNumbers.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ReverseNumbers\bin\Debug\ReverseNumbers.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ReverseNumbers\bin\Debug\ReverseNumbers.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ReverseNumbers\obj\Debug\02.ReverseNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\ReverseNumbers\bin\Debug\ReverseNumbers.exe.config
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\ReverseNumbers\obj\Debug\ReverseNumbers.exe
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\ReverseNumbers\obj\Debug\ReverseNumbers.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\Telerik\CSharpII\homework\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\Telerik\CSharpII\homework\Arrays\PrimeNumbers\obj\Debug\15.PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\Telerik\CSharpII\homework\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

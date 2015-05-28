@@ -1,0 +1,4 @@
+D:\Telerik\CSharpII\homework\TextFiles\ReplaceWholeWords\bin\Debug\ReplaceWholeWords.exe
+D:\Telerik\CSharpII\homework\TextFiles\ReplaceWholeWords\bin\Debug\ReplaceWholeWords.pdb
+D:\Telerik\CSharpII\homework\TextFiles\ReplaceWholeWords\obj\Debug\ReplaceWholeWords.exe
+D:\Telerik\CSharpII\homework\TextFiles\ReplaceWholeWords\obj\Debug\ReplaceWholeWords.pdb

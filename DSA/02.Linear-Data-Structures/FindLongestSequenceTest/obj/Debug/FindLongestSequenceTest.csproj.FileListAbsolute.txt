@@ -1,0 +1,7 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSequenceTest\bin\Debug\FindLongestSequenceTest.dll
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSequenceTest\bin\Debug\FindLongestSequenceTest.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSequenceTest\bin\Debug\FindLongestSiquence.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSequenceTest\bin\Debug\FindLongestSiquence.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSequenceTest\obj\Debug\FindLongestSequenceTest.csprojResolveAssemblyReference.cache
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSequenceTest\obj\Debug\FindLongestSequenceTest.dll
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSequenceTest\obj\Debug\FindLongestSequenceTest.pdb

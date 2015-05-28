@@ -1,0 +1,1 @@
+D:\Telerik\C#\homework\ConditionalStatements\SumOfSubset\bin\Debug\SumOfSubset.exe.config

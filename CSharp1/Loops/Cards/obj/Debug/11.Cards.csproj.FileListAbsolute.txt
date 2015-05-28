@@ -1,0 +1,4 @@
+D:\Telerik\C#\homework\Loops\Cards\obj\Debug\Cards.exe
+D:\Telerik\C#\homework\Loops\Cards\obj\Debug\Cards.pdb
+D:\Telerik\CSharpI\homework\Loops\Cards\obj\Debug\Cards.exe
+D:\Telerik\CSharpI\homework\Loops\Cards\obj\Debug\Cards.pdb

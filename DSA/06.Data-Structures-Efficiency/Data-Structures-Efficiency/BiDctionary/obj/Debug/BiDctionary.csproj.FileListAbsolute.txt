@@ -1,0 +1,1 @@
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\BiDctionary\bin\Debug\BiDctionary.exe.config

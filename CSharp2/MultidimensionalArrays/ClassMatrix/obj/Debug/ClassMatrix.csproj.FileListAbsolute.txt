@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\ClassMatrix\bin\Debug\ClassMatrix.exe.config

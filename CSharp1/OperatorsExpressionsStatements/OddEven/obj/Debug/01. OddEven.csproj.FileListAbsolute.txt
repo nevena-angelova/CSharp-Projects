@@ -1,0 +1,9 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\OddEven\bin\Debug\OddEven.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\OddEven\bin\Debug\OddEven.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\OddEven\obj\Debug\01. OddEven.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\OddEven\obj\Debug\OddEven.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\OddEven\obj\Debug\OddEven.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\OddEven\obj\Debug\OddEven.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\OddEven\obj\Debug\OddEven.pdb
+C:\Users\toshiba\Desktop\Small Projects\CSharp\OperatorsExpressionsStatements\OddEven\obj\Debug\OddEven.exe
+C:\Users\toshiba\Desktop\Small Projects\CSharp\OperatorsExpressionsStatements\OddEven\obj\Debug\OddEven.pdb

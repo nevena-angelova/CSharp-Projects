@@ -1,0 +1,1 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitPositionCheck1\bin\Debug\BitPositionCheck1.exe.config

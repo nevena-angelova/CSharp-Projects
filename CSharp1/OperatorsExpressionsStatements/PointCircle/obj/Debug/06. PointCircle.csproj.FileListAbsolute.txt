@@ -1,0 +1,7 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PointCircle\bin\Debug\PointCircle.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PointCircle\bin\Debug\PointCircle.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PointCircle\obj\Debug\PointCircle.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PointCircle\obj\Debug\PointCircle.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PointCircle\obj\Debug\06. PointCircle.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\PointCircle\obj\Debug\PointCircle.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\PointCircle\obj\Debug\PointCircle.pdb

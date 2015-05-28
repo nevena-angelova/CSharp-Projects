@@ -1,0 +1,49 @@
+﻿1. Задача
+
+What is the expected running time of the following C# code? Explain why. Assume the array's size is n.
+
+long Compute(int[] arr)
+{
+    long count = 0;
+    for (int i=0; i<arr.Length; i++)
+    {
+        int start = 0, end = arr.Length-1;
+        while (start < end)
+            if (arr[start] < arr[end])
+                { start++; count++; }
+            else 
+                end--;
+    }
+    return count;
+}
+
+Answer:
+
+Сложността на алгоритъма е O(n*n), защото външния цикъл се изпълнява n пъти, a вършешния,
+за всяка итерация по n пъти. При въртешния цикъл броят итерации намаляват всеки път с една,
+защото зависят от start < end, а при всеки етап от цикъла или се увеличава start, или се
+намалява end.
+
+2. Задача
+
+What is the expected running time of the following C# code? Explain why.
+
+long CalcCount(int[,] matrix)
+{
+    long count = 0;
+    for (int row=0; row<matrix.GetLength(0); row++)
+        if (matrix[row, 0] % 2 == 0)
+            for (int col=0; col<matrix.GetLength(1); col++)
+                if (matrix[row,col] > 0)
+                    count++;
+    return count;
+}
+
+Assume the input matrix has size of n * m.
+
+Answer:
+
+Сложността на алгоритъма е O(n*m), като това се отнася за най-лошия случай, ако всички числа са четни.
+Ако всички числа са нечетни имаме най-добия случай - O(n). Ако вземем среден случай, то сложността би била
+(n * m + n) / 2.
+

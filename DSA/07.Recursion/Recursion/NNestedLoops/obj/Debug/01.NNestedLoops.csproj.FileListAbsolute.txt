@@ -1,0 +1,6 @@
+D:\Telerik\DSA\homework\07.Recursion\Recursion\NNestedLoops\bin\Debug\NNestedLoops.exe.config
+D:\Telerik\DSA\homework\07.Recursion\Recursion\NNestedLoops\obj\Debug\NNestedLoops.exe
+D:\Telerik\DSA\homework\07.Recursion\Recursion\NNestedLoops\obj\Debug\NNestedLoops.pdb
+D:\Telerik\DSA\homework\07.Recursion\Recursion\NNestedLoops\bin\Debug\NNestedLoops.exe
+D:\Telerik\DSA\homework\07.Recursion\Recursion\NNestedLoops\bin\Debug\NNestedLoops.pdb
+D:\Telerik\DSA\homework\07.Recursion\Recursion\NNestedLoops\obj\Debug\01.NNestedLoops.csprojResolveAssemblyReference.cache

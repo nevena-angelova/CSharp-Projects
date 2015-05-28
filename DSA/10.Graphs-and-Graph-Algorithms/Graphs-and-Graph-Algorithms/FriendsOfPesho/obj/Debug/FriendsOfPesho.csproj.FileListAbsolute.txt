@@ -1,0 +1,6 @@
+D:\Telerik\DSA\homework\10.Graphs-and-Graph-Algorithms\Graphs-and-Graph-Algorithms\FriendsOfPesho\bin\Debug\FriendsOfPesho.exe.config
+D:\Telerik\DSA\homework\10.Graphs-and-Graph-Algorithms\Graphs-and-Graph-Algorithms\FriendsOfPesho\bin\Debug\FriendsOfPesho.exe
+D:\Telerik\DSA\homework\10.Graphs-and-Graph-Algorithms\Graphs-and-Graph-Algorithms\FriendsOfPesho\bin\Debug\FriendsOfPesho.pdb
+D:\Telerik\DSA\homework\10.Graphs-and-Graph-Algorithms\Graphs-and-Graph-Algorithms\FriendsOfPesho\obj\Debug\FriendsOfPesho.csprojResolveAssemblyReference.cache
+D:\Telerik\DSA\homework\10.Graphs-and-Graph-Algorithms\Graphs-and-Graph-Algorithms\FriendsOfPesho\obj\Debug\FriendsOfPesho.exe
+D:\Telerik\DSA\homework\10.Graphs-and-Graph-Algorithms\Graphs-and-Graph-Algorithms\FriendsOfPesho\obj\Debug\FriendsOfPesho.pdb

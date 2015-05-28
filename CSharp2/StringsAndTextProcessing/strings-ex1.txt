@@ -1,0 +1,4 @@
+Strings are sequences of characters (instances of System.String). They are immutable.
+
+Most important string methods are:
+Compare(str1, str2), IndexOf(str), LastIndexOf(str), Substring(startIndex, length), Replace(oldStr, newStr), Remove(startIndex, length), ToLower(), ToUpper(), Trim()

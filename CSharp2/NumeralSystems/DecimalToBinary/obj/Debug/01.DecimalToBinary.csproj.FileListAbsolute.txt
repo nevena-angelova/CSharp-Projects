@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+D:\Telerik\CSharpII\homework\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+D:\Telerik\CSharpII\homework\NumeralSystems\DecimalToBinary\obj\Debug\01.DecimalToBinary.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\NumeralSystems\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+D:\Telerik\CSharpII\homework\NumeralSystems\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

@@ -1,0 +1,10 @@
+D:\Telerik\C#\Exam\Arrays\Compare\bin\Debug\Compare.exe
+D:\Telerik\C#\Exam\Arrays\Compare\bin\Debug\Compare.pdb
+D:\Telerik\C#\Exam\Arrays\Compare\obj\Debug\Compare.exe
+D:\Telerik\C#\Exam\Arrays\Compare\obj\Debug\Compare.pdb
+D:\Telerik\C#\Exam\Arrays\Compare\obj\Debug\02.Compare.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Arrays\Compare\obj\Debug\Compare.exe
+D:\Telerik\CSharpII\homework\Arrays\Compare\obj\Debug\Compare.pdb
+D:\Telerik\CSharpII\homework\Arrays\Compare\bin\Debug\Compare.exe
+D:\Telerik\CSharpII\homework\Arrays\Compare\bin\Debug\Compare.pdb
+D:\Telerik\CSharpII\homework\Arrays\Compare\obj\Debug\02.Compare.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\PrintHelloTest\bin\Debug\PrintHelloTest.dll
+E:\nevena\Telerik\CSharpII\homework\Methods\PrintHelloTest\bin\Debug\PrintHelloTest.pdb
+E:\nevena\Telerik\CSharpII\homework\Methods\PrintHelloTest\bin\Debug\PrintHello.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\PrintHelloTest\bin\Debug\PrintHello.pdb
+E:\nevena\Telerik\CSharpII\homework\Methods\PrintHelloTest\obj\Debug\PrintHelloTest.csprojResolveAssemblyReference.cache
+E:\nevena\Telerik\CSharpII\homework\Methods\PrintHelloTest\obj\Debug\PrintHelloTest.dll
+E:\nevena\Telerik\CSharpII\homework\Methods\PrintHelloTest\obj\Debug\PrintHelloTest.pdb

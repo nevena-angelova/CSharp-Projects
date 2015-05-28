@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\ConditionalStatements\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\Telerik\C#\homework\ConditionalStatements\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\Telerik\C#\homework\ConditionalStatements\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\Telerik\C#\homework\ConditionalStatements\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
+D:\Telerik\CSharpI\homework\ConditionalStatements\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\Telerik\CSharpI\homework\ConditionalStatements\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

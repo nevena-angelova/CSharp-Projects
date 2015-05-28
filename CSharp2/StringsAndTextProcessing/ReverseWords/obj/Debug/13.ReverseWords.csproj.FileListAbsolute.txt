@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReverseWords\bin\Debug\ReverseWords.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReverseWords\bin\Debug\ReverseWords.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReverseWords\obj\Debug\13.ReverseWords.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReverseWords\obj\Debug\ReverseWords.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReverseWords\obj\Debug\ReverseWords.pdb

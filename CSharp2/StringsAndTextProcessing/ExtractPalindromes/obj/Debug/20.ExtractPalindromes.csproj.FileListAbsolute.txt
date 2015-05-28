@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractPalindromes\bin\Debug\ExtractPalindromes.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractPalindromes\bin\Debug\ExtractPalindromes.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractPalindromes\obj\Debug\20.ExtractPalindromes.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractPalindromes\obj\Debug\ExtractPalindromes.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractPalindromes\obj\Debug\ExtractPalindromes.pdb

@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\Arrays\SubsetsWithSumS\bin\Debug\SubsetsWithSumS.exe.config

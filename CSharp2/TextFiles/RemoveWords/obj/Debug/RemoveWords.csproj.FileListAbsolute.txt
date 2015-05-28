@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\TextFiles\RemoveWords\bin\Debug\RemoveWords.exe.config

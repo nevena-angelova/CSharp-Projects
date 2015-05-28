@@ -1,0 +1,11 @@
+c:\users\toshiba\documents\visual studio 2012\Projects\Combinatorics\Factor\bin\Debug\Factors.exe.config
+c:\users\toshiba\documents\visual studio 2012\Projects\Combinatorics\Factor\bin\Debug\Factors.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\Combinatorics\Factor\bin\Debug\Factors.pdb
+c:\users\toshiba\documents\visual studio 2012\Projects\Combinatorics\Factor\obj\Debug\Factors.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\Combinatorics\Factor\obj\Debug\Factors.pdb
+D:\Telerik\DSA\homework\09.Combinatorics\Combinatorics\Factor\bin\Debug\Factors.exe.config
+D:\Telerik\DSA\homework\09.Combinatorics\Combinatorics\Factor\obj\Debug\Factors.exe
+D:\Telerik\DSA\homework\09.Combinatorics\Combinatorics\Factor\obj\Debug\Factors.pdb
+D:\Telerik\DSA\homework\09.Combinatorics\Combinatorics\Factor\bin\Debug\Factors.exe
+D:\Telerik\DSA\homework\09.Combinatorics\Combinatorics\Factor\bin\Debug\Factors.pdb
+D:\Telerik\DSA\homework\09.Combinatorics\Combinatorics\Factor\obj\Debug\Factors.csprojResolveAssemblyReference.cache

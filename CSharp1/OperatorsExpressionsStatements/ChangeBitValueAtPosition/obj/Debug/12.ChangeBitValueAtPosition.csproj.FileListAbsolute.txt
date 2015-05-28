@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\ChangeBitValueAtPosition\obj\Debug\ChangeBitValueAtPosition.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\ChangeBitValueAtPosition\obj\Debug\ChangeBitValueAtPosition.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\ChangeBitValueAtPosition\bin\Debug\ChangeBitValueAtPosition.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\ChangeBitValueAtPosition\bin\Debug\ChangeBitValueAtPosition.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\ChangeBitValueAtPosition\obj\Debug\ChangeBitValueAtPosition.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\ChangeBitValueAtPosition\obj\Debug\ChangeBitValueAtPosition.pdb

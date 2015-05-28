@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\PrimeNumber\obj\Debug\PrimeNumber.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\PrimeNumber\obj\Debug\PrimeNumber.pdb

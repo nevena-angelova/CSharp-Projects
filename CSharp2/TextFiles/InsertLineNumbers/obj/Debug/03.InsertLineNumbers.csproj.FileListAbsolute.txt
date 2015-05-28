@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\TextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.exe
+D:\Telerik\CSharpII\homework\TextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.pdb
+D:\Telerik\CSharpII\homework\TextFiles\InsertLineNumbers\obj\Debug\03.InsertLineNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\TextFiles\InsertLineNumbers\obj\Debug\InsertLineNumbers.exe
+D:\Telerik\CSharpII\homework\TextFiles\InsertLineNumbers\obj\Debug\InsertLineNumbers.pdb

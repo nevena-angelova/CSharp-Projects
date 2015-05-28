@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractDates\bin\Debug\ExtractDates.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractDates\bin\Debug\ExtractDates.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractDates\obj\Debug\19.ExtractDates.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractDates\obj\Debug\ExtractDates.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractDates\obj\Debug\ExtractDates.pdb

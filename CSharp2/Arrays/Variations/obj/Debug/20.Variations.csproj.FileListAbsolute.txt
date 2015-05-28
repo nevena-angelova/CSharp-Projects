@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\Arrays\Variations\bin\Debug\Variations.exe
+D:\Telerik\CSharpII\homework\Arrays\Variations\bin\Debug\Variations.pdb
+D:\Telerik\CSharpII\homework\Arrays\Variations\obj\Debug\20.Variations.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Arrays\Variations\obj\Debug\Variations.exe
+D:\Telerik\CSharpII\homework\Arrays\Variations\obj\Debug\Variations.pdb

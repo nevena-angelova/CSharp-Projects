@@ -1,0 +1,7 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitPosition3rd\bin\Debug\BitPosition3rd.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitPosition3rd\bin\Debug\BitPosition3rd.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitPosition3rd\obj\Debug\05.BitPosition3rd.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitPosition3rd\obj\Debug\BitPosition3rd.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitPosition3rd\obj\Debug\BitPosition3rd.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\BitPosition3rd\obj\Debug\BitPosition3rd.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\BitPosition3rd\obj\Debug\BitPosition3rd.pdb

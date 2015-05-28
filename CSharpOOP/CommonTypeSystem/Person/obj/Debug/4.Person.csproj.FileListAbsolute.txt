@@ -1,0 +1,8 @@
+E:\nevena\Telerik\OOP\homework\CommonTypeSystem\Person\bin\Debug\Person.exe
+E:\nevena\Telerik\OOP\homework\CommonTypeSystem\Person\bin\Debug\Person.pdb
+E:\nevena\Telerik\OOP\homework\CommonTypeSystem\Person\obj\Debug\Person.exe
+E:\nevena\Telerik\OOP\homework\CommonTypeSystem\Person\obj\Debug\Person.pdb
+D:\Telerik\OOP\homework\CommonTypeSystem\Person\obj\Debug\Person.exe
+D:\Telerik\OOP\homework\CommonTypeSystem\Person\obj\Debug\Person.pdb
+D:\Telerik\OOP\homework\CommonTypeSystem\Person\bin\Debug\Person.exe
+D:\Telerik\OOP\homework\CommonTypeSystem\Person\bin\Debug\Person.pdb

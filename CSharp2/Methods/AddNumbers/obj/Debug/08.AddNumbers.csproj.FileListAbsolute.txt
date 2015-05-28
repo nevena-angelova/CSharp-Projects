@@ -1,0 +1,10 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\AddNumbers\obj\Debug\08.AddNumbers.csprojResolveAssemblyReference.cache
+E:\nevena\Telerik\CSharpII\homework\Methods\AddNumbers\bin\Debug\AddNumbers.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\AddNumbers\bin\Debug\AddNumbers.pdb
+E:\nevena\Telerik\CSharpII\homework\Methods\AddNumbers\obj\Debug\AddNumbers.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\AddNumbers\obj\Debug\AddNumbers.pdb
+D:\Telerik\CSharpII\homework\Methods\AddNumbers\obj\Debug\AddNumbers.exe
+D:\Telerik\CSharpII\homework\Methods\AddNumbers\obj\Debug\AddNumbers.pdb
+D:\Telerik\CSharpII\homework\Methods\AddNumbers\bin\Debug\AddNumbers.exe
+D:\Telerik\CSharpII\homework\Methods\AddNumbers\bin\Debug\AddNumbers.pdb
+D:\Telerik\CSharpII\homework\Methods\AddNumbers\obj\Debug\08.AddNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractSentence\bin\Debug\ExtractSentence.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractSentence\bin\Debug\ExtractSentence.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractSentence\obj\Debug\08.ExtractSentence.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractSentence\obj\Debug\ExtractSentence.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractSentence\obj\Debug\ExtractSentence.pdb

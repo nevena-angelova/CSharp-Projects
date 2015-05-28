@@ -1,0 +1,14 @@
+D:\Telerik\OOP\homework\MobileDevice\GSMCallHistoryTest\obj\Debug\GSMCallHistoryTest.csprojResolveAssemblyReference.cache
+D:\Telerik\OOP\homework\MobileDevice\GSMCallHistoryTest\bin\Debug\GSMCallHistoryTest.exe
+D:\Telerik\OOP\homework\MobileDevice\GSMCallHistoryTest\bin\Debug\GSMCallHistoryTest.pdb
+D:\Telerik\OOP\homework\MobileDevice\GSMCallHistoryTest\bin\Debug\MobileDevice.exe
+D:\Telerik\OOP\homework\MobileDevice\GSMCallHistoryTest\bin\Debug\MobileDevice.pdb
+D:\Telerik\OOP\homework\MobileDevice\GSMCallHistoryTest\obj\Debug\GSMCallHistoryTest.exe
+D:\Telerik\OOP\homework\MobileDevice\GSMCallHistoryTest\obj\Debug\GSMCallHistoryTest.pdb
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\GSMCallHistoryTest\obj\Debug\GSMCallHistoryTest.exe
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\GSMCallHistoryTest\obj\Debug\GSMCallHistoryTest.pdb
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\GSMCallHistoryTest\bin\Debug\GSMCallHistoryTest.exe
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\GSMCallHistoryTest\bin\Debug\GSMCallHistoryTest.pdb
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\GSMCallHistoryTest\bin\Debug\MobileDevice.exe
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\GSMCallHistoryTest\bin\Debug\MobileDevice.pdb
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\GSMCallHistoryTest\obj\Debug\GSMCallHistoryTest.csprojResolveAssemblyReference.cache

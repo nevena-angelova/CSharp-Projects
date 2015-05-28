@@ -1,0 +1,4 @@
+D:\Telerik\CSharpII\homework\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+D:\Telerik\CSharpII\homework\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+D:\Telerik\CSharpII\homework\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+D:\Telerik\CSharpII\homework\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

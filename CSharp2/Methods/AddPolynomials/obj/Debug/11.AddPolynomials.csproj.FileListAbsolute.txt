@@ -1,0 +1,5 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\AddPolynomials\bin\Debug\AddPolynomials.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\AddPolynomials\bin\Debug\AddPolynomials.pdb
+E:\nevena\Telerik\CSharpII\homework\Methods\AddPolynomials\obj\Debug\11.AddPolynomials.csprojResolveAssemblyReference.cache
+E:\nevena\Telerik\CSharpII\homework\Methods\AddPolynomials\obj\Debug\AddPolynomials.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\AddPolynomials\obj\Debug\AddPolynomials.pdb

@@ -1,0 +1,10 @@
+E:\nevena\Telerik\OOP\homework\CommonTypeSystem\Student\bin\Debug\Student.exe
+E:\nevena\Telerik\OOP\homework\CommonTypeSystem\Student\bin\Debug\Student.pdb
+E:\nevena\Telerik\OOP\homework\CommonTypeSystem\Student\obj\Debug\1.2.3.Student.csprojResolveAssemblyReference.cache
+E:\nevena\Telerik\OOP\homework\CommonTypeSystem\Student\obj\Debug\Student.exe
+E:\nevena\Telerik\OOP\homework\CommonTypeSystem\Student\obj\Debug\Student.pdb
+D:\Telerik\OOP\homework\CommonTypeSystem\Student\obj\Debug\Student.exe
+D:\Telerik\OOP\homework\CommonTypeSystem\Student\obj\Debug\Student.pdb
+D:\Telerik\OOP\homework\CommonTypeSystem\Student\bin\Debug\Student.exe
+D:\Telerik\OOP\homework\CommonTypeSystem\Student\bin\Debug\Student.pdb
+D:\Telerik\OOP\homework\CommonTypeSystem\Student\obj\Debug\1.2.3.Student.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\IndexOfFirstBiggerNumber\bin\Debug\IndexOfFirstBiggerNumber.exe.config

@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\Loops\GCD\bin\Debug\GCD.exe
+D:\Telerik\C#\homework\Loops\GCD\bin\Debug\GCD.pdb
+D:\Telerik\C#\homework\Loops\GCD\obj\Debug\GCD.exe
+D:\Telerik\C#\homework\Loops\GCD\obj\Debug\GCD.pdb
+D:\Telerik\CSharpI\homework\Loops\GCD\obj\Debug\GCD.exe
+D:\Telerik\CSharpI\homework\Loops\GCD\obj\Debug\GCD.pdb

@@ -1,0 +1,1 @@
+D:\Telerik\C#\Exam\Arrays\IndexByFive\bin\Debug\IndexByFive.exe.config

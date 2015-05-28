@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileDevice", "MobileDevice\MobileDevice.csproj", "{906C8259-39DD-4700-B690-FFACE6750EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMCallHistoryTest", "GSMCallHistoryTest\GSMCallHistoryTest.csproj", "{F85C7ED1-D738-4588-975F-977FF398645A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906C8259-39DD-4700-B690-FFACE6750EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906C8259-39DD-4700-B690-FFACE6750EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906C8259-39DD-4700-B690-FFACE6750EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906C8259-39DD-4700-B690-FFACE6750EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85C7ED1-D738-4588-975F-977FF398645A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85C7ED1-D738-4588-975F-977FF398645A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85C7ED1-D738-4588-975F-977FF398645A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85C7ED1-D738-4588-975F-977FF398645A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

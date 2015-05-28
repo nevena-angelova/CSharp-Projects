@@ -1,0 +1,4 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ConvertToUnicodeChar\bin\Debug\ConvertToUnicodeChar.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ConvertToUnicodeChar\bin\Debug\ConvertToUnicodeChar.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ConvertToUnicodeChar\obj\Debug\ConvertToUnicodeChar.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ConvertToUnicodeChar\obj\Debug\ConvertToUnicodeChar.pdb

@@ -1,0 +1,10 @@
+D:\Telerik\C#\Exam\Arrays\IndexByFive\bin\Debug\IndexByFive.exe
+D:\Telerik\C#\Exam\Arrays\IndexByFive\bin\Debug\IndexByFive.pdb
+D:\Telerik\C#\Exam\Arrays\IndexByFive\obj\Debug\01.IndexByFive.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\Exam\Arrays\IndexByFive\obj\Debug\IndexByFive.exe
+D:\Telerik\C#\Exam\Arrays\IndexByFive\obj\Debug\IndexByFive.pdb
+D:\Telerik\CSharpII\homework\Arrays\IndexByFive\obj\Debug\IndexByFive.exe
+D:\Telerik\CSharpII\homework\Arrays\IndexByFive\obj\Debug\IndexByFive.pdb
+D:\Telerik\CSharpII\homework\Arrays\IndexByFive\bin\Debug\IndexByFive.exe
+D:\Telerik\CSharpII\homework\Arrays\IndexByFive\bin\Debug\IndexByFive.pdb
+D:\Telerik\CSharpII\homework\Arrays\IndexByFive\obj\Debug\01.IndexByFive.csprojResolveAssemblyReference.cache

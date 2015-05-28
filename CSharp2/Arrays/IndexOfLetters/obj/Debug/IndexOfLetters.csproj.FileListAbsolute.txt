@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config

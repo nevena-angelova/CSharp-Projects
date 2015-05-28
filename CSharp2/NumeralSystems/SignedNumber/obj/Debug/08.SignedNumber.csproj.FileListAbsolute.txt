@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\NumeralSystems\SignedNumber\bin\Debug\SignedNumber.exe
+D:\Telerik\CSharpII\homework\NumeralSystems\SignedNumber\bin\Debug\SignedNumber.pdb
+D:\Telerik\CSharpII\homework\NumeralSystems\SignedNumber\obj\Debug\08.SignedNumber.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\NumeralSystems\SignedNumber\obj\Debug\SignedNumber.exe
+D:\Telerik\CSharpII\homework\NumeralSystems\SignedNumber\obj\Debug\SignedNumber.pdb

@@ -1,0 +1,5 @@
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\StudentsInfo\bin\Debug\StudentsInfo.exe
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\StudentsInfo\bin\Debug\StudentsInfo.pdb
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\StudentsInfo\obj\Debug\StudentsInfo.csprojResolveAssemblyReference.cache
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\StudentsInfo\obj\Debug\StudentsInfo.exe
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\StudentsInfo\obj\Debug\StudentsInfo.pdb

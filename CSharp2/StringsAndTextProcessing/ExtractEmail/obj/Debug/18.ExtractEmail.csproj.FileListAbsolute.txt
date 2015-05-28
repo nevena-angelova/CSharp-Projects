@@ -1,0 +1,4 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractEmail\bin\Debug\ExtractEmail.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractEmail\bin\Debug\ExtractEmail.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractEmail\obj\Debug\ExtractEmail.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractEmail\obj\Debug\ExtractEmail.pdb

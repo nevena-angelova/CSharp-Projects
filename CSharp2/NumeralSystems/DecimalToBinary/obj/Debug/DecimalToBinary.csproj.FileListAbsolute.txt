@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config

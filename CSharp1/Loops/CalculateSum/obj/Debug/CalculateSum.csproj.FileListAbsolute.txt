@@ -1,0 +1,1 @@
+D:\Telerik\C#\homework\Loops\CalculateSum\bin\Debug\CalculateSum.exe.config

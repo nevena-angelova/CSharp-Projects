@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\TextFiles\PrintOddLines\obj\Debug\01.PrintOddLines.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\TextFiles\PrintOddLines\bin\Debug\PrintOddLines.exe
+D:\Telerik\CSharpII\homework\TextFiles\PrintOddLines\bin\Debug\PrintOddLines.pdb
+D:\Telerik\CSharpII\homework\TextFiles\PrintOddLines\obj\Debug\PrintOddLines.exe
+D:\Telerik\CSharpII\homework\TextFiles\PrintOddLines\obj\Debug\PrintOddLines.pdb

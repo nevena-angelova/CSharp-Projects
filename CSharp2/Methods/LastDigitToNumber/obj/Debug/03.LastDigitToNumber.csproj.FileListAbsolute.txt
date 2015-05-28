@@ -1,0 +1,9 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\LastDigitToNumber\bin\Debug\LastDigitToNumber.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\LastDigitToNumber\bin\Debug\LastDigitToNumber.pdb
+E:\nevena\Telerik\CSharpII\homework\Methods\LastDigitToNumber\obj\Debug\LastDigitToNumber.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\LastDigitToNumber\obj\Debug\LastDigitToNumber.pdb
+D:\Telerik\CSharpII\homework\Methods\LastDigitToNumber\obj\Debug\LastDigitToNumber.exe
+D:\Telerik\CSharpII\homework\Methods\LastDigitToNumber\obj\Debug\LastDigitToNumber.pdb
+D:\Telerik\CSharpII\homework\Methods\LastDigitToNumber\bin\Debug\LastDigitToNumber.exe
+D:\Telerik\CSharpII\homework\Methods\LastDigitToNumber\bin\Debug\LastDigitToNumber.pdb
+D:\Telerik\CSharpII\homework\Methods\LastDigitToNumber\obj\Debug\03.LastDigitToNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTQueque\bin\Debug\ADTQueque.exe.config
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTQueque\bin\Debug\ADTQueque.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTQueque\bin\Debug\ADTQueque.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTQueque\obj\Debug\13.ADTQuequeInplement.csprojResolveAssemblyReference.cache
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTQueque\obj\Debug\ADTQueque.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTQueque\obj\Debug\ADTQueque.pdb
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\ADTQueque\bin\Debug\ADTQueque.exe.config
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\ADTQueque\obj\Debug\ADTQueque.exe
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\ADTQueque\obj\Debug\ADTQueque.pdb

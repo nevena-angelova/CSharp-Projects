@@ -1,0 +1,5 @@
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\ExtractOddOcured\bin\Debug\ExtractOddOcured.exe.config
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\ExtractOddOcured\bin\Debug\ExtractOddOcured.exe
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\ExtractOddOcured\bin\Debug\ExtractOddOcured.pdb
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\ExtractOddOcured\obj\Debug\ExtractOddOcured.exe
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\ExtractOddOcured\obj\Debug\ExtractOddOcured.pdb

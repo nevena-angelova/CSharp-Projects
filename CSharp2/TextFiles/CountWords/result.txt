@@ -1,0 +1,7 @@
+Jupiter, 5 times
+planet, 7 times
+Sun, 2 times
+giant, 2 times
+gas, 2 times
+Moon, 1 times
+Solar, 2 times

@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\ConditionalStatements\ProductSign\bin\Debug\ProductSign.exe
+D:\Telerik\C#\homework\ConditionalStatements\ProductSign\bin\Debug\ProductSign.pdb
+D:\Telerik\C#\homework\ConditionalStatements\ProductSign\obj\Debug\ProductSign.exe
+D:\Telerik\C#\homework\ConditionalStatements\ProductSign\obj\Debug\ProductSign.pdb
+D:\Telerik\CSharpI\homework\ConditionalStatements\ProductSign\obj\Debug\ProductSign.exe
+D:\Telerik\CSharpI\homework\ConditionalStatements\ProductSign\obj\Debug\ProductSign.pdb

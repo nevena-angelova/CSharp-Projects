@@ -1,0 +1,7 @@
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\PrintDivisibe\obj\Debug\06.PrintDivisibe.csprojResolveAssemblyReference.cache
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\PrintDivisibe\bin\Debug\PrintDivisibe.exe
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\PrintDivisibe\bin\Debug\PrintDivisibe.pdb
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\PrintDivisibe\obj\Debug\PrintDivisibe.exe
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\PrintDivisibe\obj\Debug\PrintDivisibe.pdb
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\PrintDivisibe\obj\Debug\PrintDivisibe.exe
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\PrintDivisibe\obj\Debug\PrintDivisibe.pdb

@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractPalindromes\bin\Debug\ExtractPalindromes.exe.config

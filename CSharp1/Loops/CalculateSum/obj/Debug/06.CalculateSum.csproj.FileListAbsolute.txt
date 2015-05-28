@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\Loops\CalculateSum\bin\Debug\CalculateSum.exe
+D:\Telerik\C#\homework\Loops\CalculateSum\bin\Debug\CalculateSum.pdb
+D:\Telerik\C#\homework\Loops\CalculateSum\obj\Debug\CalculateSum.exe
+D:\Telerik\C#\homework\Loops\CalculateSum\obj\Debug\CalculateSum.pdb
+D:\Telerik\CSharpI\homework\Loops\CalculateSum\obj\Debug\CalculateSum.exe
+D:\Telerik\CSharpI\homework\Loops\CalculateSum\obj\Debug\CalculateSum.pdb

@@ -1,0 +1,9 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\ReverseDigits\bin\Debug\ReverseDigits.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\ReverseDigits\bin\Debug\ReverseDigits.pdb
+E:\nevena\Telerik\CSharpII\homework\Methods\ReverseDigits\obj\Debug\ReverseDigits.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\ReverseDigits\obj\Debug\ReverseDigits.pdb
+D:\Telerik\CSharpII\homework\Methods\ReverseDigits\obj\Debug\ReverseDigits.exe
+D:\Telerik\CSharpII\homework\Methods\ReverseDigits\obj\Debug\ReverseDigits.pdb
+D:\Telerik\CSharpII\homework\Methods\ReverseDigits\bin\Debug\ReverseDigits.exe
+D:\Telerik\CSharpII\homework\Methods\ReverseDigits\bin\Debug\ReverseDigits.pdb
+D:\Telerik\CSharpII\homework\Methods\ReverseDigits\obj\Debug\07.ReverseDigits.csprojResolveAssemblyReference.cache

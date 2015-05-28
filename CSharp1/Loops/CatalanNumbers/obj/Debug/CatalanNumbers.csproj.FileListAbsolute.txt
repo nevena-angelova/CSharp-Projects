@@ -1,0 +1,2 @@
+D:\Telerik\C#\homework\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
+D:\Telerik\C#\homework\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.csprojResolveAssemblyReference.cache

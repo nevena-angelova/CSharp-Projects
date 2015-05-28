@@ -1,0 +1,6 @@
+D:\Telerik\DSA\homework\07.Recursion\Recursion\CombinationsWithoutDuplications\bin\Debug\CombinationsWithoutDuplications.exe.config
+D:\Telerik\DSA\homework\07.Recursion\Recursion\CombinationsWithoutDuplications\bin\Debug\CombinationsWithoutDuplications.exe
+D:\Telerik\DSA\homework\07.Recursion\Recursion\CombinationsWithoutDuplications\bin\Debug\CombinationsWithoutDuplications.pdb
+D:\Telerik\DSA\homework\07.Recursion\Recursion\CombinationsWithoutDuplications\obj\Debug\03.CombinationsWithoutDuplications.csprojResolveAssemblyReference.cache
+D:\Telerik\DSA\homework\07.Recursion\Recursion\CombinationsWithoutDuplications\obj\Debug\CombinationsWithoutDuplications.exe
+D:\Telerik\DSA\homework\07.Recursion\Recursion\CombinationsWithoutDuplications\obj\Debug\CombinationsWithoutDuplications.pdb

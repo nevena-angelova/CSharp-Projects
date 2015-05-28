@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\TextFiles\ReplaceWholeWords\bin\Debug\ReplaceWholeWords.exe.config

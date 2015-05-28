@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\PrintSorted\obj\Debug\24.PrintSorted.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\PrintSorted\bin\Debug\PrintSorted.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\PrintSorted\bin\Debug\PrintSorted.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\PrintSorted\obj\Debug\PrintSorted.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\PrintSorted\obj\Debug\PrintSorted.pdb

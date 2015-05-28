@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\TextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe
+D:\Telerik\CSharpII\homework\TextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.pdb
+D:\Telerik\CSharpII\homework\TextFiles\ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\TextFiles\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.exe
+D:\Telerik\CSharpII\homework\TextFiles\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.pdb

@@ -1,0 +1,10 @@
+D:\Telerik\C#\Exam\Arrays\MaxIncreaseSequence\bin\Debug\MaxIncreaseSequence.exe
+D:\Telerik\C#\Exam\Arrays\MaxIncreaseSequence\bin\Debug\MaxIncreaseSequence.pdb
+D:\Telerik\C#\Exam\Arrays\MaxIncreaseSequence\obj\Debug\05.MaxIncreaseSequence.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\Exam\Arrays\MaxIncreaseSequence\obj\Debug\MaxIncreaseSequence.exe
+D:\Telerik\C#\Exam\Arrays\MaxIncreaseSequence\obj\Debug\MaxIncreaseSequence.pdb
+D:\Telerik\CSharpII\homework\Arrays\MaxIncreaseSequence\obj\Debug\MaxIncreaseSequence.exe
+D:\Telerik\CSharpII\homework\Arrays\MaxIncreaseSequence\obj\Debug\MaxIncreaseSequence.pdb
+D:\Telerik\CSharpII\homework\Arrays\MaxIncreaseSequence\bin\Debug\MaxIncreaseSequence.exe
+D:\Telerik\CSharpII\homework\Arrays\MaxIncreaseSequence\bin\Debug\MaxIncreaseSequence.pdb
+D:\Telerik\CSharpII\homework\Arrays\MaxIncreaseSequence\obj\Debug\05.MaxIncreaseSequence.csprojResolveAssemblyReference.cache

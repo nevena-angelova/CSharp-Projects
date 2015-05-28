@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\Loops\Zeros\bin\Debug\Zeros.exe
+D:\Telerik\C#\homework\Loops\Zeros\bin\Debug\Zeros.pdb
+D:\Telerik\C#\homework\Loops\Zeros\obj\Debug\Zeros.exe
+D:\Telerik\C#\homework\Loops\Zeros\obj\Debug\Zeros.pdb
+D:\Telerik\CSharpI\homework\Loops\Zeros\obj\Debug\Zeros.exe
+D:\Telerik\CSharpI\homework\Loops\Zeros\obj\Debug\Zeros.pdb

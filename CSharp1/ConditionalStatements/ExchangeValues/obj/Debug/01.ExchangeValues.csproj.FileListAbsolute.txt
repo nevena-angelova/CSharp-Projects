@@ -1,0 +1,7 @@
+D:\Telerik\C#\homework\ConditionalStatements\ExchangeValues\bin\Debug\ExchangeValues.exe
+D:\Telerik\C#\homework\ConditionalStatements\ExchangeValues\bin\Debug\ExchangeValues.pdb
+D:\Telerik\C#\homework\ConditionalStatements\ExchangeValues\obj\Debug\01.ExchangeValues.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\homework\ConditionalStatements\ExchangeValues\obj\Debug\ExchangeValues.exe
+D:\Telerik\C#\homework\ConditionalStatements\ExchangeValues\obj\Debug\ExchangeValues.pdb
+D:\Telerik\CSharpI\homework\ConditionalStatements\ExchangeValues\obj\Debug\ExchangeValues.exe
+D:\Telerik\CSharpI\homework\ConditionalStatements\ExchangeValues\obj\Debug\ExchangeValues.pdb

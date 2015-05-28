@@ -1,0 +1,12 @@
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\Timer\bin\Debug\Timer.exe.config
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\Timer\obj\Debug\07.Timer.csprojResolveAssemblyReference.cache
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\Timer\bin\Debug\Timer.exe
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\Timer\bin\Debug\Timer.pdb
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\Timer\obj\Debug\Timer.exe
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\Timer\obj\Debug\Timer.pdb
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\Timer\bin\Debug\Timer.exe.config
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\Timer\obj\Debug\Timer.exe
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\Timer\obj\Debug\Timer.pdb
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\Timer\bin\Debug\Timer.exe
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\Timer\bin\Debug\Timer.pdb
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\Timer\obj\Debug\07.Timer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceTags\obj\Debug\15.ReplaceTags.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.pdb

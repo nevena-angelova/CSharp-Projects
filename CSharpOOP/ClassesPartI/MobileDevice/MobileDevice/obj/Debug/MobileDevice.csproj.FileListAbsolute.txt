@@ -1,0 +1,10 @@
+D:\Telerik\OOP\homework\MobileDevice\MobileDevice\obj\Debug\MobileDevice.csprojResolveAssemblyReference.cache
+D:\Telerik\OOP\homework\MobileDevice\MobileDevice\bin\Debug\MobileDevice.exe
+D:\Telerik\OOP\homework\MobileDevice\MobileDevice\bin\Debug\MobileDevice.pdb
+D:\Telerik\OOP\homework\MobileDevice\MobileDevice\obj\Debug\MobileDevice.exe
+D:\Telerik\OOP\homework\MobileDevice\MobileDevice\obj\Debug\MobileDevice.pdb
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\MobileDevice\obj\Debug\MobileDevice.exe
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\MobileDevice\obj\Debug\MobileDevice.pdb
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\MobileDevice\bin\Debug\MobileDevice.exe
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\MobileDevice\bin\Debug\MobileDevice.pdb
+D:\Telerik\OOP\homework\ClassesPartI\MobileDevice\MobileDevice\obj\Debug\MobileDevice.csprojResolveAssemblyReference.cache

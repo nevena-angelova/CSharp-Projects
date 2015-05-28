@@ -1,0 +1,8 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\CountNumberOccurence\bin\Debug\CountNumberOccurence.exe.config
+D:\Telerik\JSApi\homework\Linear-Data-Structures\CountNumberOccurence\bin\Debug\CountNumberOccurence.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\CountNumberOccurence\bin\Debug\CountNumberOccurence.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\CountNumberOccurence\obj\Debug\CountNumberOccurence.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\CountNumberOccurence\obj\Debug\CountNumberOccurence.pdb
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\CountNumberOccurence\bin\Debug\CountNumberOccurence.exe.config
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\CountNumberOccurence\obj\Debug\CountNumberOccurence.exe
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\CountNumberOccurence\obj\Debug\CountNumberOccurence.pdb

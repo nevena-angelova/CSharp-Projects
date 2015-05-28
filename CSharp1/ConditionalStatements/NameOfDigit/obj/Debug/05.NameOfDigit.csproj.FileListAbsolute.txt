@@ -1,0 +1,7 @@
+D:\Telerik\C#\homework\ConditionalStatements\NameOfDigit\bin\Debug\NameOfDigit.exe.config
+D:\Telerik\C#\homework\ConditionalStatements\NameOfDigit\bin\Debug\NameOfDigit.exe
+D:\Telerik\C#\homework\ConditionalStatements\NameOfDigit\bin\Debug\NameOfDigit.pdb
+D:\Telerik\C#\homework\ConditionalStatements\NameOfDigit\obj\Debug\NameOfDigit.exe
+D:\Telerik\C#\homework\ConditionalStatements\NameOfDigit\obj\Debug\NameOfDigit.pdb
+D:\Telerik\CSharpI\homework\ConditionalStatements\NameOfDigit\obj\Debug\NameOfDigit.exe
+D:\Telerik\CSharpI\homework\ConditionalStatements\NameOfDigit\obj\Debug\NameOfDigit.pdb

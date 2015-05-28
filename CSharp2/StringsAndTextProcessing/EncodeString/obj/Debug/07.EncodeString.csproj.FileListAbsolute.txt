@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\EncodeString\bin\Debug\EncodeString.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\EncodeString\bin\Debug\EncodeString.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\EncodeString\obj\Debug\07.EncodeString.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\EncodeString\obj\Debug\EncodeString.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\EncodeString\obj\Debug\EncodeString.pdb

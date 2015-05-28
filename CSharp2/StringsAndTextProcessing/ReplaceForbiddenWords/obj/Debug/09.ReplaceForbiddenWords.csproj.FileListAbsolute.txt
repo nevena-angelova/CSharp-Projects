@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceForbiddenWords\bin\Debug\ReplaceForbiddenWords.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceForbiddenWords\bin\Debug\ReplaceForbiddenWords.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceForbiddenWords\obj\Debug\09.ReplaceForbiddenWords.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceForbiddenWords\obj\Debug\ReplaceForbiddenWords.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ReplaceForbiddenWords\obj\Debug\ReplaceForbiddenWords.pdb

@@ -1,0 +1,9 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\RemoveOddTimesNumbers\bin\Debug\RemoveOddTimesNumbers.exe.config
+D:\Telerik\JSApi\homework\Linear-Data-Structures\RemoveOddTimesNumbers\bin\Debug\RemoveOddTimesNumbers.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\RemoveOddTimesNumbers\bin\Debug\RemoveOddTimesNumbers.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\RemoveOddTimesNumbers\obj\Debug\06.RemoveOddTimesNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\JSApi\homework\Linear-Data-Structures\RemoveOddTimesNumbers\obj\Debug\RemoveOddTimesNumbers.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\RemoveOddTimesNumbers\obj\Debug\RemoveOddTimesNumbers.pdb
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\RemoveOddTimesNumbers\bin\Debug\RemoveOddTimesNumbers.exe.config
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\RemoveOddTimesNumbers\obj\Debug\RemoveOddTimesNumbers.exe
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\RemoveOddTimesNumbers\obj\Debug\RemoveOddTimesNumbers.pdb

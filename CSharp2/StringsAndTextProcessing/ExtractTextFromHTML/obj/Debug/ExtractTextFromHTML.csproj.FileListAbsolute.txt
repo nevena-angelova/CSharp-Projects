@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.exe.config

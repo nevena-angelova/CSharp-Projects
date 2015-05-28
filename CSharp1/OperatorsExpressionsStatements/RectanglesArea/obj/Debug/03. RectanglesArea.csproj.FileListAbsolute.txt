@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\RectanglesArea\bin\Debug\RectanglesArea.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\RectanglesArea\bin\Debug\RectanglesArea.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\RectanglesArea\obj\Debug\RectanglesArea.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\RectanglesArea\obj\Debug\RectanglesArea.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\RectanglesArea\obj\Debug\RectanglesArea.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\RectanglesArea\obj\Debug\RectanglesArea.pdb

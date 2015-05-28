@@ -1,0 +1,6 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\CalculateSumAndAverage\bin\Debug\CalculateSumAndAverage.exe.config
+D:\Telerik\JSApi\homework\Linear-Data-Structures\CalculateSumAndAverage\bin\Debug\CalculateSumAndAverage.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\CalculateSumAndAverage\bin\Debug\CalculateSumAndAverage.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\CalculateSumAndAverage\obj\Debug\CalculateSumAndAverage.csprojResolveAssemblyReference.cache
+D:\Telerik\JSApi\homework\Linear-Data-Structures\CalculateSumAndAverage\obj\Debug\CalculateSumAndAverage.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\CalculateSumAndAverage\obj\Debug\CalculateSumAndAverage.pdb

@@ -1,0 +1,1 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\DevidedByNumbers\bin\Debug\DevidedByNumbers.exe.config

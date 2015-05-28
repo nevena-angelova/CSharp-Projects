@@ -1,0 +1,4 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractTextFromHTML\obj\Debug\ExtractTextFromHTML.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractTextFromHTML\obj\Debug\ExtractTextFromHTML.pdb

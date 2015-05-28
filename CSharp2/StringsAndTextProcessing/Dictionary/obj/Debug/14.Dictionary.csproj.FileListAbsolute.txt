@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\Dictionary\bin\Debug\Dictionary.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\Dictionary\bin\Debug\Dictionary.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\Dictionary\obj\Debug\14.Dictionary.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\Dictionary\obj\Debug\Dictionary.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\Dictionary\obj\Debug\Dictionary.pdb

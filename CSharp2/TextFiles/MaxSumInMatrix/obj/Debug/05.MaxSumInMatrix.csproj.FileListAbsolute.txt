@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\TextFiles\MaxSumInMatrix\bin\Debug\MaxSumInMatrix.exe
+D:\Telerik\CSharpII\homework\TextFiles\MaxSumInMatrix\bin\Debug\MaxSumInMatrix.pdb
+D:\Telerik\CSharpII\homework\TextFiles\MaxSumInMatrix\obj\Debug\05.MaxSumInMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\TextFiles\MaxSumInMatrix\obj\Debug\MaxSumInMatrix.exe
+D:\Telerik\CSharpII\homework\TextFiles\MaxSumInMatrix\obj\Debug\MaxSumInMatrix.pdb

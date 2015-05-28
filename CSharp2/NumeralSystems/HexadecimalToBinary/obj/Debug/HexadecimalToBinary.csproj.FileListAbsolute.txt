@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\NumeralSystems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe.config

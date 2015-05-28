@@ -1,0 +1,6 @@
+D:\Telerik\C#\Exam\Arrays\CompareChar\obj\Debug\03.CompareChar.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Arrays\CompareChar\bin\Debug\CompareChar.exe
+D:\Telerik\CSharpII\homework\Arrays\CompareChar\bin\Debug\CompareChar.pdb
+D:\Telerik\CSharpII\homework\Arrays\CompareChar\obj\Debug\03.CompareChar.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Arrays\CompareChar\obj\Debug\CompareChar.exe
+D:\Telerik\CSharpII\homework\Arrays\CompareChar\obj\Debug\CompareChar.pdb

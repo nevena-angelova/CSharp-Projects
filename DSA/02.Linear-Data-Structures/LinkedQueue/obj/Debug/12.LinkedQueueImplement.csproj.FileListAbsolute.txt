@@ -1,0 +1,6 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\LinkedQueue\bin\Debug\LinkedQueue.exe.config
+D:\Telerik\JSApi\homework\Linear-Data-Structures\LinkedQueue\bin\Debug\LinkedQueue.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\LinkedQueue\bin\Debug\LinkedQueue.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\LinkedQueue\obj\Debug\12.LinkedQueueImplement.csprojResolveAssemblyReference.cache
+D:\Telerik\JSApi\homework\Linear-Data-Structures\LinkedQueue\obj\Debug\LinkedQueue.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\LinkedQueue\obj\Debug\LinkedQueue.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\ConditionalStatements\SumOfSubset\bin\Debug\SumOfSubset.exe
+D:\Telerik\C#\homework\ConditionalStatements\SumOfSubset\bin\Debug\SumOfSubset.pdb
+D:\Telerik\C#\homework\ConditionalStatements\SumOfSubset\obj\Debug\SumOfSubset.exe
+D:\Telerik\C#\homework\ConditionalStatements\SumOfSubset\obj\Debug\SumOfSubset.pdb
+D:\Telerik\CSharpI\homework\ConditionalStatements\SumOfSubset\obj\Debug\SumOfSubset.exe
+D:\Telerik\CSharpI\homework\ConditionalStatements\SumOfSubset\obj\Debug\SumOfSubset.pdb

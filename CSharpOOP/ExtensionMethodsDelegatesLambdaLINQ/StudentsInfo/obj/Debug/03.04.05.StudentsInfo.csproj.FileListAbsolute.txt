@@ -1,0 +1,9 @@
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\StudentsInfo\obj\Debug\StudentsInfo.exe
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\StudentsInfo\obj\Debug\StudentsInfo.pdb
+D:\Telerik\OOP\homework\ExtMethodsDelegatesLambdaLINQ\StudentsInfo\obj\Debug\StudentsInfo.exe
+D:\Telerik\OOP\homework\ExtMethodsDelegatesLambdaLINQ\StudentsInfo\obj\Debug\StudentsInfo.pdb
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\StudentsInfo\obj\Debug\StudentsInfo.exe
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\StudentsInfo\obj\Debug\StudentsInfo.pdb
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\StudentsInfo\bin\Debug\StudentsInfo.exe
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\StudentsInfo\bin\Debug\StudentsInfo.pdb
+D:\Telerik\OOP\homework\ExtensionMethodsDelegatesLambdaLINQ\StudentsInfo\obj\Debug\03.04.05.StudentsInfo.csprojResolveAssemblyReference.cache

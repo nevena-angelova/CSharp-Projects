@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\TextFiles\ReplaceWords\bin\Debug\ReplaceWords.exe
+D:\Telerik\CSharpII\homework\TextFiles\ReplaceWords\bin\Debug\ReplaceWords.pdb
+D:\Telerik\CSharpII\homework\TextFiles\ReplaceWords\obj\Debug\07.ReplaceWords.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\TextFiles\ReplaceWords\obj\Debug\ReplaceWords.exe
+D:\Telerik\CSharpII\homework\TextFiles\ReplaceWords\obj\Debug\ReplaceWords.pdb

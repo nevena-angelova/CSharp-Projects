@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ConvertToUnicodeChar\bin\Debug\ConvertToUnicodeChar.exe.config

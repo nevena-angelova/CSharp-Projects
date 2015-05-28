@@ -1,0 +1,6 @@
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\CountWords\bin\Debug\CountWords.exe.config
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\CountWords\bin\Debug\CountWords.exe
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\CountWords\bin\Debug\CountWords.pdb
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\CountWords\obj\Debug\CountWords.csprojResolveAssemblyReference.cache
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\CountWords\obj\Debug\CountWords.exe
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\CountWords\obj\Debug\CountWords.pdb

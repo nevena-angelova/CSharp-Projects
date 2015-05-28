@@ -1,0 +1,5 @@
+D:\Telerik\OOP\homework\ClassesPartII\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+D:\Telerik\OOP\homework\ClassesPartII\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+D:\Telerik\OOP\homework\ClassesPartII\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\OOP\homework\ClassesPartII\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+D:\Telerik\OOP\homework\ClassesPartII\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\TextFiles\CountWords\bin\Debug\CountWords.exe
+D:\Telerik\CSharpII\homework\TextFiles\CountWords\bin\Debug\CountWords.pdb
+D:\Telerik\CSharpII\homework\TextFiles\CountWords\obj\Debug\13.CountWords.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\TextFiles\CountWords\obj\Debug\CountWords.exe
+D:\Telerik\CSharpII\homework\TextFiles\CountWords\obj\Debug\CountWords.pdb

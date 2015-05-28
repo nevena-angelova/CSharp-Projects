@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\PrintDateAfter\bin\Debug\PrintDateAfter.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\PrintDateAfter\bin\Debug\PrintDateAfter.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\PrintDateAfter\obj\Debug\17.PrintDateAfter.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\PrintDateAfter\obj\Debug\PrintDateAfter.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\PrintDateAfter\obj\Debug\PrintDateAfter.pdb

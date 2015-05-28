@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\LongestSequenceOfStrings\bin\Debug\LongestSequenceOfStrings.exe
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\LongestSequenceOfStrings\bin\Debug\LongestSequenceOfStrings.pdb
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\LongestSequenceOfStrings\obj\Debug\03.LongestSequenceOfStrings.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\LongestSequenceOfStrings\obj\Debug\LongestSequenceOfStrings.exe
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\LongestSequenceOfStrings\obj\Debug\LongestSequenceOfStrings.pdb

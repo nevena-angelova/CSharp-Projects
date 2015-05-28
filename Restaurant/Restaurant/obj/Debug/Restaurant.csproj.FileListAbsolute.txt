@@ -1,0 +1,39 @@
+E:\nevena\Telerik\OOP\Teamwork\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+E:\nevena\Telerik\OOP\Teamwork\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+E:\nevena\Telerik\OOP\Teamwork\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+E:\nevena\Telerik\OOP\Teamwork\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+E:\nevena\Telerik\OOP\Teamwork\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+D:\Telerik\OOP\Teamwork\Restaurant-15.11\Restaurant\obj\Debug\Restaurant.exe
+D:\Telerik\OOP\Teamwork\Restaurant-15.11\Restaurant\obj\Debug\Restaurant.pdb
+D:\Telerik\OOP\Teamwork\Restaurant-15.11\Restaurant\bin\Debug\Restaurant.exe
+D:\Telerik\OOP\Teamwork\Restaurant-15.11\Restaurant\bin\Debug\Restaurant.pdb
+D:\Telerik\OOP\Teamwork\Restaurant-15.11\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+E:\nevena\Downloads\Restaurant-17.11\Restaurant-17.11\Restaurant\obj\Debug\Restaurant.exe
+E:\nevena\Downloads\Restaurant-17.11\Restaurant-17.11\Restaurant\obj\Debug\Restaurant.pdb
+E:\nevena\Downloads\Restaurant-17.11\Restaurant-17.11\Restaurant\bin\Debug\Restaurant.exe
+E:\nevena\Downloads\Restaurant-17.11\Restaurant-17.11\Restaurant\bin\Debug\Restaurant.pdb
+E:\nevena\Downloads\Restaurant-17.11\Restaurant-17.11\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+G:\Restaurant-17.11\Restaurant-17.11\Restaurant\obj\Debug\Restaurant.exe
+G:\Restaurant-17.11\Restaurant-17.11\Restaurant\obj\Debug\Restaurant.pdb
+D:\Telerik\OOP\Teamwork\Restaurant-17.11\Restaurant-17.11\Restaurant\obj\Debug\Restaurant.exe
+D:\Telerik\OOP\Teamwork\Restaurant-17.11\Restaurant-17.11\Restaurant\obj\Debug\Restaurant.pdb
+D:\Telerik\OOP\Teamwork\Restaurant-17.11\Restaurant-17.11\Restaurant\bin\Debug\Restaurant.exe
+D:\Telerik\OOP\Teamwork\Restaurant-17.11\Restaurant-17.11\Restaurant\bin\Debug\Restaurant.pdb
+D:\Telerik\OOP\Teamwork\Restaurant-17.11\Restaurant-17.11\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+D:\Telerik\SVN\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+D:\Telerik\SVN\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+D:\Telerik\SVN\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+D:\Telerik\SVN\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+D:\Telerik\SVN\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+D:\@@@@@@\TELERIK\VisualStudioProjects\CSHARP\OOP\Project\Checkout\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+D:\@@@@@@\TELERIK\VisualStudioProjects\CSHARP\OOP\Project\Checkout\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+E:\Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+E:\Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+E:\Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+E:\Restaurant\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+E:\Restaurant\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\toshiba\Desktop\Small Projects\TeamEuclaseProject\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\toshiba\Desktop\Small Projects\TeamEuclaseProject\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\toshiba\Desktop\Small Projects\TeamEuclaseProject\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\toshiba\Desktop\Small Projects\TeamEuclaseProject\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\toshiba\Desktop\Small Projects\TeamEuclaseProject\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache

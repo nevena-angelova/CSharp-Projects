@@ -1,0 +1,1 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\LastDigitToNumber\bin\Debug\LastDigitToNumber.exe.config

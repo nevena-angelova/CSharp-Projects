@@ -1,0 +1,1 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\BitExchange\bin\Debug\BitExchange.exe.config

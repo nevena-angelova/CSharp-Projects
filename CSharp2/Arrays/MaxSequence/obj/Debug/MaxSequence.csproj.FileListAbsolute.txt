@@ -1,0 +1,1 @@
+D:\Telerik\C#\Exam\Arrays\MaxSequence\bin\Debug\MaxSequence.exe.config

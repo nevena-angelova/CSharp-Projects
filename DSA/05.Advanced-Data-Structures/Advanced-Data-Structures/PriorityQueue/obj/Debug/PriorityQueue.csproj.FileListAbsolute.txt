@@ -1,0 +1,1 @@
+D:\Telerik\DSA\homework\05.Advanced-Data-Structures\Advanced-Data-Structures\PriorityQueue\bin\Debug\PriorityQueue.exe.config

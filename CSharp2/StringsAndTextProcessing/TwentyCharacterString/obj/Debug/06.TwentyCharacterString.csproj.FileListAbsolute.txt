@@ -1,0 +1,4 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\TwentyCharacterString\bin\Debug\TwentyCharacterString.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\TwentyCharacterString\bin\Debug\TwentyCharacterString.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\TwentyCharacterString\obj\Debug\TwentyCharacterString.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\TwentyCharacterString\obj\Debug\TwentyCharacterString.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\OOP\homework\ClassesPartII\Generics\bin\Debug\Generics.exe
+D:\Telerik\OOP\homework\ClassesPartII\Generics\bin\Debug\Generics.pdb
+D:\Telerik\OOP\homework\ClassesPartII\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+D:\Telerik\OOP\homework\ClassesPartII\Generics\obj\Debug\Generics.exe
+D:\Telerik\OOP\homework\ClassesPartII\Generics\obj\Debug\Generics.pdb

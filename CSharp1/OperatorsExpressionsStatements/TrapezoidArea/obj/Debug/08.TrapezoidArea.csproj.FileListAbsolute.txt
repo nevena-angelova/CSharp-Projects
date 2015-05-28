@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\TrapezoidArea\obj\Debug\TrapezoidArea.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

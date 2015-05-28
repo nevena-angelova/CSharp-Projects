@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.exe.config

@@ -1,0 +1,1 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\CompareNeighbors\bin\Debug\CompareNeighbors.exe.config

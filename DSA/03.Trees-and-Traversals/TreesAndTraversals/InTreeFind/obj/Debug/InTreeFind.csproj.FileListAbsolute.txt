@@ -1,0 +1,6 @@
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\InTreeFind\bin\Debug\InTreeFind.exe.config
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\InTreeFind\bin\Debug\InTreeFind.exe
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\InTreeFind\bin\Debug\InTreeFind.pdb
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\InTreeFind\obj\Debug\InTreeFind.csprojResolveAssemblyReference.cache
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\InTreeFind\obj\Debug\InTreeFind.exe
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\InTreeFind\obj\Debug\InTreeFind.pdb

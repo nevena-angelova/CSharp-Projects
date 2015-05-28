@@ -1,0 +1,10 @@
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\DevidedByNumbers\bin\Debug\DevidedByNumbers.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\DevidedByNumbers\bin\Debug\DevidedByNumbers.pdb
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\DevidedByNumbers\obj\Debug\02. DevidedByNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\DevidedByNumbers\obj\Debug\DevidedByNumbers.exe
+D:\Telerik\C#\homework\OperatorsExpressionsStatements\DevidedByNumbers\obj\Debug\DevidedByNumbers.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\DevidedByNumbers\obj\Debug\DevidedByNumbers.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\DevidedByNumbers\obj\Debug\DevidedByNumbers.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\DevidedByNumbers\bin\Debug\DevidedByNumbers.exe
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\DevidedByNumbers\bin\Debug\DevidedByNumbers.pdb
+D:\Telerik\CSharpI\homework\OperatorsExpressionsStatements\DevidedByNumbers\obj\Debug\02. DevidedByNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Telerik\C#\homework\FallingRocks\FallingRocks\bin\Debug\FallingRocks.exe
+D:\Telerik\C#\homework\FallingRocks\FallingRocks\bin\Debug\FallingRocks.pdb
+D:\Telerik\C#\homework\FallingRocks\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\homework\FallingRocks\FallingRocks\obj\Debug\FallingRocks.exe
+D:\Telerik\C#\homework\FallingRocks\FallingRocks\obj\Debug\FallingRocks.pdb
+D:\Telerik\CSharpI\homework\FallingRocks\FallingRocks\obj\Debug\FallingRocks.exe
+D:\Telerik\CSharpI\homework\FallingRocks\FallingRocks\obj\Debug\FallingRocks.pdb
+D:\Telerik\CSharpI\homework\FallingRocks\FallingRocks\bin\Debug\FallingRocks.exe
+D:\Telerik\CSharpI\homework\FallingRocks\FallingRocks\bin\Debug\FallingRocks.pdb
+D:\Telerik\CSharpI\homework\FallingRocks\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache

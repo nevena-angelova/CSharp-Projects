@@ -1,0 +1,6 @@
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\HashTable\bin\Debug\HashTables.exe.config
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\HashTable\bin\Debug\HashTables.exe
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\HashTable\bin\Debug\HashTables.pdb
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\HashTable\obj\Debug\04.HashTables.csprojResolveAssemblyReference.cache
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\HashTable\obj\Debug\HashTables.exe
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\HashTable\obj\Debug\HashTables.pdb

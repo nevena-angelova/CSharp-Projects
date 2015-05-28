@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\URLExtract\bin\Debug\URLExtract.exe.config

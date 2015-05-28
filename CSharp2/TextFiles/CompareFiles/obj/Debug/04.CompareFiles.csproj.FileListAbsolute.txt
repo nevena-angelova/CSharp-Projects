@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\TextFiles\CompareFiles\bin\Debug\CompareFiles.exe
+D:\Telerik\CSharpII\homework\TextFiles\CompareFiles\bin\Debug\CompareFiles.pdb
+D:\Telerik\CSharpII\homework\TextFiles\CompareFiles\obj\Debug\04.CompareFiles.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\TextFiles\CompareFiles\obj\Debug\CompareFiles.exe
+D:\Telerik\CSharpII\homework\TextFiles\CompareFiles\obj\Debug\CompareFiles.pdb

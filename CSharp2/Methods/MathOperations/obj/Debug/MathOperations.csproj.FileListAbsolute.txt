@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\Methods\MathOperations\bin\Debug\MathOperations.exe.config

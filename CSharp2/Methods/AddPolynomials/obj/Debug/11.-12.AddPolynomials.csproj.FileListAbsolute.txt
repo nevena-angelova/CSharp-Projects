@@ -1,0 +1,2 @@
+E:\nevena\Telerik\CSharpII\homework\Methods\AddPolynomials\obj\Debug\AddPolynomials.exe
+E:\nevena\Telerik\CSharpII\homework\Methods\AddPolynomials\obj\Debug\AddPolynomials.pdb

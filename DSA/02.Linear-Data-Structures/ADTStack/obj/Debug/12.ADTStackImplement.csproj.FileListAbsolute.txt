@@ -1,0 +1,9 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTStack\bin\Debug\ADTStack.exe.config
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTStack\bin\Debug\ADTStack.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTStack\bin\Debug\ADTStack.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTStack\obj\Debug\12.ADTStackImplement.csprojResolveAssemblyReference.cache
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTStack\obj\Debug\ADTStack.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\ADTStack\obj\Debug\ADTStack.pdb
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\ADTStack\bin\Debug\ADTStack.exe.config
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\ADTStack\obj\Debug\ADTStack.exe
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\ADTStack\obj\Debug\ADTStack.pdb

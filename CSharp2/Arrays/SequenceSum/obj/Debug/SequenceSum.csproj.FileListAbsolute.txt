@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\Arrays\SequenceSum\bin\Debug\SequenceSum.exe.config

@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\Find3x3Sum\bin\Debug\Find3x3Sum.exe
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\Find3x3Sum\bin\Debug\Find3x3Sum.pdb
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\Find3x3Sum\obj\Debug\02.Find3x3Sum.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\Find3x3Sum\obj\Debug\Find3x3Sum.exe
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\Find3x3Sum\obj\Debug\Find3x3Sum.pdb

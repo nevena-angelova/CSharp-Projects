@@ -1,0 +1,7 @@
+D:\Telerik\C#\homework\ConditionalStatements\IntDoubleString\bin\Debug\IntDoubleString.exe.config
+D:\Telerik\C#\homework\ConditionalStatements\IntDoubleString\bin\Debug\IntDoubleString.exe
+D:\Telerik\C#\homework\ConditionalStatements\IntDoubleString\bin\Debug\IntDoubleString.pdb
+D:\Telerik\C#\homework\ConditionalStatements\IntDoubleString\obj\Debug\IntDoubleString.exe
+D:\Telerik\C#\homework\ConditionalStatements\IntDoubleString\obj\Debug\IntDoubleString.pdb
+D:\Telerik\CSharpI\homework\ConditionalStatements\IntDoubleString\obj\Debug\IntDoubleString.exe
+D:\Telerik\CSharpI\homework\ConditionalStatements\IntDoubleString\obj\Debug\IntDoubleString.pdb

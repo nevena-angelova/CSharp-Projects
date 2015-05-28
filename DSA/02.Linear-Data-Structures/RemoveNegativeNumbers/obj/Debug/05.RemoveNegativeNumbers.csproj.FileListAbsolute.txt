@@ -1,0 +1,11 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\RemoveNegativeNumbers\bin\Debug\RemoveNegativeNumbers.exe.config
+D:\Telerik\JSApi\homework\Linear-Data-Structures\RemoveNegativeNumbers\bin\Debug\RemoveNegativeNumbers.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\RemoveNegativeNumbers\bin\Debug\RemoveNegativeNumbers.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\RemoveNegativeNumbers\obj\Debug\RemoveNegativeNumbers.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\RemoveNegativeNumbers\obj\Debug\RemoveNegativeNumbers.pdb
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\RemoveNegativeNumbers\bin\Debug\RemoveNegativeNumbers.exe.config
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\RemoveNegativeNumbers\obj\Debug\RemoveNegativeNumbers.exe
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\RemoveNegativeNumbers\obj\Debug\RemoveNegativeNumbers.pdb
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\RemoveNegativeNumbers\bin\Debug\RemoveNegativeNumbers.exe
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\RemoveNegativeNumbers\bin\Debug\RemoveNegativeNumbers.pdb
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.csprojResolveAssemblyReference.cache

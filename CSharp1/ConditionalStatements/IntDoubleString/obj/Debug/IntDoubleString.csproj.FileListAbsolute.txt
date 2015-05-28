@@ -1,0 +1,1 @@
+D:\Telerik\C#\homework\ConditionalStatements\IntDoubleString\bin\Debug\IntDoubleString.exe.config

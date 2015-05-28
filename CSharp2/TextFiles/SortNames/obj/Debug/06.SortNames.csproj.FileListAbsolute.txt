@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\TextFiles\SortNames\bin\Debug\SortNames.exe
+D:\Telerik\CSharpII\homework\TextFiles\SortNames\bin\Debug\SortNames.pdb
+D:\Telerik\CSharpII\homework\TextFiles\SortNames\obj\Debug\06.SortNames.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\TextFiles\SortNames\obj\Debug\SortNames.exe
+D:\Telerik\CSharpII\homework\TextFiles\SortNames\obj\Debug\SortNames.pdb

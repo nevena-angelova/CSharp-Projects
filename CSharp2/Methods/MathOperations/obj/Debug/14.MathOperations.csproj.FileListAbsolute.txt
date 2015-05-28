@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\Methods\MathOperations\bin\Debug\MathOperations.exe
+D:\Telerik\CSharpII\homework\Methods\MathOperations\bin\Debug\MathOperations.pdb
+D:\Telerik\CSharpII\homework\Methods\MathOperations\obj\Debug\14.MathOperations.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Methods\MathOperations\obj\Debug\MathOperations.exe
+D:\Telerik\CSharpII\homework\Methods\MathOperations\obj\Debug\MathOperations.pdb

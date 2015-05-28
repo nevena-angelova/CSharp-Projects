@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CountSubstringInText\bin\Debug\CountSubstringInText.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CountSubstringInText\bin\Debug\CountSubstringInText.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CountSubstringInText\obj\Debug\04.CountSubstringInText.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CountSubstringInText\obj\Debug\CountSubstringInText.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CountSubstringInText\obj\Debug\CountSubstringInText.pdb

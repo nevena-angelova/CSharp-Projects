@@ -1,0 +1,7 @@
+E:\nevena\Telerik\CSharpII\homework\OOPPrinciplesPart1\Animal\obj\Debug\Animal.csprojResolveAssemblyReference.cache
+E:\nevena\Telerik\CSharpII\homework\OOPPrinciplesPart1\Animal\bin\Debug\Animal.exe
+E:\nevena\Telerik\CSharpII\homework\OOPPrinciplesPart1\Animal\bin\Debug\Animal.pdb
+E:\nevena\Telerik\CSharpII\homework\OOPPrinciplesPart1\Animal\obj\Debug\Animal.exe
+E:\nevena\Telerik\CSharpII\homework\OOPPrinciplesPart1\Animal\obj\Debug\Animal.pdb
+D:\Telerik\OOP\homework\OOPPriciplesPart1\Animal\obj\Debug\Animal.exe
+D:\Telerik\OOP\homework\OOPPriciplesPart1\Animal\obj\Debug\Animal.pdb

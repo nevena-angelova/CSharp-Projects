@@ -1,0 +1,4 @@
+D:\Telerik\CSharpII\homework\Arrays\MaxSequence\bin\Debug\MaxSequence.exe
+D:\Telerik\CSharpII\homework\Arrays\MaxSequence\bin\Debug\MaxSequence.pdb
+D:\Telerik\CSharpII\homework\Arrays\MaxSequence\obj\Debug\MaxSequence.exe
+D:\Telerik\CSharpII\homework\Arrays\MaxSequence\obj\Debug\MaxSequence.pdb

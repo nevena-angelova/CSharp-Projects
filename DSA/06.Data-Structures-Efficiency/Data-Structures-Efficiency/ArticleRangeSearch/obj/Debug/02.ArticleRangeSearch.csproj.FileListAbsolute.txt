@@ -1,0 +1,8 @@
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\ArticleRangeSearch\bin\Debug\ArticleRangeSearch.exe.config
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\ArticleRangeSearch\bin\Debug\ArticleRangeSearch.exe
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\ArticleRangeSearch\bin\Debug\ArticleRangeSearch.pdb
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\ArticleRangeSearch\bin\Debug\PowerCollections.dll
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\ArticleRangeSearch\bin\Debug\PowerCollections.xml
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\ArticleRangeSearch\obj\Debug\02.ArticleRangeSearch.csprojResolveAssemblyReference.cache
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\ArticleRangeSearch\obj\Debug\ArticleRangeSearch.exe
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\ArticleRangeSearch\obj\Debug\ArticleRangeSearch.pdb

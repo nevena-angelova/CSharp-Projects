@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\Arrays\MergeSort\bin\Debug\MergeSort.exe.config

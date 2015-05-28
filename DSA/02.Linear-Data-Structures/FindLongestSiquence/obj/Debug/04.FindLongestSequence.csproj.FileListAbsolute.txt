@@ -1,0 +1,9 @@
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSiquence\bin\Debug\FindLongestSiquence.exe.config
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSiquence\bin\Debug\FindLongestSiquence.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSiquence\bin\Debug\FindLongestSiquence.pdb
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSiquence\obj\Debug\04.FindLongestSequence.csprojResolveAssemblyReference.cache
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSiquence\obj\Debug\FindLongestSiquence.exe
+D:\Telerik\JSApi\homework\Linear-Data-Structures\FindLongestSiquence\obj\Debug\FindLongestSiquence.pdb
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\FindLongestSiquence\bin\Debug\FindLongestSiquence.exe.config
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\FindLongestSiquence\obj\Debug\FindLongestSiquence.exe
+D:\Telerik\DSA\homework\02.Linear-Data-Structures\FindLongestSiquence\obj\Debug\FindLongestSiquence.pdb

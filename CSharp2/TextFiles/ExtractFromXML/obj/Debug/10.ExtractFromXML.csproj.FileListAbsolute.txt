@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\TextFiles\ExtractFromXML\bin\Debug\ExtractFromXML.exe
+D:\Telerik\CSharpII\homework\TextFiles\ExtractFromXML\bin\Debug\ExtractFromXML.pdb
+D:\Telerik\CSharpII\homework\TextFiles\ExtractFromXML\obj\Debug\10.ExtractFromXML.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\TextFiles\ExtractFromXML\obj\Debug\ExtractFromXML.exe
+D:\Telerik\CSharpII\homework\TextFiles\ExtractFromXML\obj\Debug\ExtractFromXML.pdb

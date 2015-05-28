@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\Loops\Matrix\bin\Debug\Matrix.exe
+D:\Telerik\C#\homework\Loops\Matrix\bin\Debug\Matrix.pdb
+D:\Telerik\C#\homework\Loops\Matrix\obj\Debug\Matrix.exe
+D:\Telerik\C#\homework\Loops\Matrix\obj\Debug\Matrix.pdb
+D:\Telerik\CSharpI\homework\Loops\Matrix\obj\Debug\Matrix.exe
+D:\Telerik\CSharpI\homework\Loops\Matrix\obj\Debug\Matrix.pdb

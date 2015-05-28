@@ -1,0 +1,1 @@
+D:\Telerik\C#\homework\Loops\GCD\bin\Debug\GCD.exe.config

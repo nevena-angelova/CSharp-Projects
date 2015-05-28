@@ -1,0 +1,7 @@
+D:\Telerik\C#\homework\Loops\NotDevideBy3And7\bin\Debug\NotDevideBy3And7.exe
+D:\Telerik\C#\homework\Loops\NotDevideBy3And7\bin\Debug\NotDevideBy3And7.pdb
+D:\Telerik\C#\homework\Loops\NotDevideBy3And7\obj\Debug\NotDevideBy3And7.exe
+D:\Telerik\C#\homework\Loops\NotDevideBy3And7\obj\Debug\NotDevideBy3And7.pdb
+D:\Telerik\C#\homework\Loops\NotDevideBy3And7\obj\Debug\02.NotDevideBy3And7.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpI\homework\Loops\NotDevideBy3And7\obj\Debug\NotDevideBy3And7.exe
+D:\Telerik\CSharpI\homework\Loops\NotDevideBy3And7\obj\Debug\NotDevideBy3And7.pdb

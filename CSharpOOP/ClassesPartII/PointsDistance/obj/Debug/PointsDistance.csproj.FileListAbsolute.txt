@@ -1,0 +1,5 @@
+D:\Telerik\OOP\homework\ClassesPartII\PointsDistance\obj\Debug\PointsDistance.csprojResolveAssemblyReference.cache
+D:\Telerik\OOP\homework\ClassesPartII\PointsDistance\bin\Debug\PointsDistance.exe
+D:\Telerik\OOP\homework\ClassesPartII\PointsDistance\bin\Debug\PointsDistance.pdb
+D:\Telerik\OOP\homework\ClassesPartII\PointsDistance\obj\Debug\PointsDistance.exe
+D:\Telerik\OOP\homework\ClassesPartII\PointsDistance\obj\Debug\PointsDistance.pdb

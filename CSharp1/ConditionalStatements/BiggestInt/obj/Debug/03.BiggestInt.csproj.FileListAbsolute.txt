@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\ConditionalStatements\BiggestInt\bin\Debug\BiggestInt.exe
+D:\Telerik\C#\homework\ConditionalStatements\BiggestInt\bin\Debug\BiggestInt.pdb
+D:\Telerik\C#\homework\ConditionalStatements\BiggestInt\obj\Debug\BiggestInt.exe
+D:\Telerik\C#\homework\ConditionalStatements\BiggestInt\obj\Debug\BiggestInt.pdb
+D:\Telerik\CSharpI\homework\ConditionalStatements\BiggestInt\obj\Debug\BiggestInt.exe
+D:\Telerik\CSharpI\homework\ConditionalStatements\BiggestInt\obj\Debug\BiggestInt.pdb

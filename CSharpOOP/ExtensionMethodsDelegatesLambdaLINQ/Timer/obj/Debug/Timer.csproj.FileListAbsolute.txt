@@ -1,0 +1,1 @@
+E:\nevena\Telerik\CSharpII\homework\ExtMethodsDelegatesLambdaLINQ\Timer\bin\Debug\Timer.exe.config

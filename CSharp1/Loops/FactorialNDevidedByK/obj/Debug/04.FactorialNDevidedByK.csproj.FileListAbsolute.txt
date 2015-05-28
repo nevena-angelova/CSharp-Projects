@@ -1,0 +1,6 @@
+D:\Telerik\C#\homework\Loops\FactorialNDevidedByK\bin\Debug\FactorialNDevidedByK.exe
+D:\Telerik\C#\homework\Loops\FactorialNDevidedByK\bin\Debug\FactorialNDevidedByK.pdb
+D:\Telerik\C#\homework\Loops\FactorialNDevidedByK\obj\Debug\FactorialNDevidedByK.exe
+D:\Telerik\C#\homework\Loops\FactorialNDevidedByK\obj\Debug\FactorialNDevidedByK.pdb
+D:\Telerik\CSharpI\homework\Loops\FactorialNDevidedByK\obj\Debug\FactorialNDevidedByK.exe
+D:\Telerik\CSharpI\homework\Loops\FactorialNDevidedByK\obj\Debug\FactorialNDevidedByK.pdb

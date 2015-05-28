@@ -1,0 +1,5 @@
+D:\Telerik\OOP\homework\OOPPriciplesPart1\Human\obj\Debug\02.Human.csprojResolveAssemblyReference.cache
+D:\Telerik\OOP\homework\OOPPriciplesPart1\Human\bin\Debug\Human.exe
+D:\Telerik\OOP\homework\OOPPriciplesPart1\Human\bin\Debug\Human.pdb
+D:\Telerik\OOP\homework\OOPPriciplesPart1\Human\obj\Debug\Human.exe
+D:\Telerik\OOP\homework\OOPPriciplesPart1\Human\obj\Debug\Human.pdb

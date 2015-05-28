@@ -1,0 +1,6 @@
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\CoursesStudentsOrdered\bin\Debug\CoursesStudentsOrdered.exe.config
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\CoursesStudentsOrdered\bin\Debug\CoursesStudentsOrdered.exe
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\CoursesStudentsOrdered\bin\Debug\CoursesStudentsOrdered.pdb
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\CoursesStudentsOrdered\obj\Debug\01.CoursesStudentsOrdered.csprojResolveAssemblyReference.cache
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\CoursesStudentsOrdered\obj\Debug\CoursesStudentsOrdered.exe
+D:\Telerik\DSA\homework\06.Data-Structures-Efficiency\Data-Structures-Efficiency\CoursesStudentsOrdered\obj\Debug\CoursesStudentsOrdered.pdb

@@ -1,0 +1,1 @@
+D:\Telerik\C#\homework\ConditionalStatements\NameOfDigit\bin\Debug\NameOfDigit.exe.config

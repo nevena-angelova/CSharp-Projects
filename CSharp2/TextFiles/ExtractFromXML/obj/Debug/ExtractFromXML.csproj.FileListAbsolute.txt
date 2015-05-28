@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\TextFiles\ExtractFromXML\bin\Debug\ExtractFromXML.exe.config

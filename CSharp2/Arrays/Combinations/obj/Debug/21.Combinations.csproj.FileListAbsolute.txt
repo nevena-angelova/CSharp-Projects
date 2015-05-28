@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\Arrays\Combinations\bin\Debug\Combinations.exe
+D:\Telerik\CSharpII\homework\Arrays\Combinations\bin\Debug\Combinations.pdb
+D:\Telerik\CSharpII\homework\Arrays\Combinations\obj\Debug\21.Combinations.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Arrays\Combinations\obj\Debug\Combinations.exe
+D:\Telerik\CSharpII\homework\Arrays\Combinations\obj\Debug\Combinations.pdb

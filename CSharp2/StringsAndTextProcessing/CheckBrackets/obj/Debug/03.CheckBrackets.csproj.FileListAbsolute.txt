@@ -1,0 +1,4 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CheckBrackets\bin\Debug\CheckBrackets.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CheckBrackets\bin\Debug\CheckBrackets.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CheckBrackets\obj\Debug\CheckBrackets.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CheckBrackets\obj\Debug\CheckBrackets.pdb

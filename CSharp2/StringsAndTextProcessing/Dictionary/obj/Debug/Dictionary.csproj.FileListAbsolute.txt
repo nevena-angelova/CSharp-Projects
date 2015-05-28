@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\Dictionary\bin\Debug\Dictionary.exe.config

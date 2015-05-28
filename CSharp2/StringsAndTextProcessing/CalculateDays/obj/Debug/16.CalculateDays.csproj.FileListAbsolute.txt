@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CalculateDays\bin\Debug\CalculateDays.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CalculateDays\bin\Debug\CalculateDays.pdb
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CalculateDays\obj\Debug\16.CalculateDays.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CalculateDays\obj\Debug\CalculateDays.exe
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\CalculateDays\obj\Debug\CalculateDays.pdb

@@ -1,0 +1,1 @@
+D:\Telerik\DSA\homework\04.Dictionaries-Hash-Tables-Sets\Dictionaries-Hash-Tables-Sets\HashTable\bin\Debug\HashTable.exe.config

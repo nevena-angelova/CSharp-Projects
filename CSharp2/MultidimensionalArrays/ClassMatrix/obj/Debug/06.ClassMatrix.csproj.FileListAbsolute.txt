@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\ClassMatrix\obj\Debug\06.ClassMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\ClassMatrix\bin\Debug\ClassMatrix.exe
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\ClassMatrix\bin\Debug\ClassMatrix.pdb
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\ClassMatrix\obj\Debug\ClassMatrix.exe
+D:\Telerik\CSharpII\homework\MultidimensionalArrays\ClassMatrix\obj\Debug\ClassMatrix.pdb

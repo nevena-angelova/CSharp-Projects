@@ -1,0 +1,1 @@
+D:\Telerik\CSharpII\homework\StringsAndTextProcessing\ExtractDates\bin\Debug\ExtractDates.exe.config

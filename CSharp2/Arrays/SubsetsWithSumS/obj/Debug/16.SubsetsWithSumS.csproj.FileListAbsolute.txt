@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\Arrays\SubsetsWithSumS\bin\Debug\SubsetsWithSumS.exe
+D:\Telerik\CSharpII\homework\Arrays\SubsetsWithSumS\bin\Debug\SubsetsWithSumS.pdb
+D:\Telerik\CSharpII\homework\Arrays\SubsetsWithSumS\obj\Debug\16.SubsetsWithSumS.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Arrays\SubsetsWithSumS\obj\Debug\SubsetsWithSumS.exe
+D:\Telerik\CSharpII\homework\Arrays\SubsetsWithSumS\obj\Debug\SubsetsWithSumS.pdb

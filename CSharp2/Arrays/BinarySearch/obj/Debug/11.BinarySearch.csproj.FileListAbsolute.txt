@@ -1,0 +1,5 @@
+D:\Telerik\CSharpII\homework\Arrays\BinarySearch\bin\Debug\BinarySearch.exe
+D:\Telerik\CSharpII\homework\Arrays\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\Telerik\CSharpII\homework\Arrays\BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharpII\homework\Arrays\BinarySearch\obj\Debug\BinarySearch.exe
+D:\Telerik\CSharpII\homework\Arrays\BinarySearch\obj\Debug\BinarySearch.pdb

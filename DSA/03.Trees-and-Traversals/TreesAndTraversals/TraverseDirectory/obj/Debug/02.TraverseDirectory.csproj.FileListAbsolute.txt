@@ -1,0 +1,6 @@
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\TraverseDirectory\bin\Debug\TraverseDirectory.exe.config
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\TraverseDirectory\bin\Debug\TraverseDirectory.exe
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\TraverseDirectory\bin\Debug\TraverseDirectory.pdb
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\TraverseDirectory\obj\Debug\02.TraverseDirectory.csprojResolveAssemblyReference.cache
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\TraverseDirectory\obj\Debug\TraverseDirectory.exe
+D:\Telerik\DSA\homework\03.Trees and Traversals\TreesAndTraversals\TraverseDirectory\obj\Debug\TraverseDirectory.pdb
