@@ -3,3 +3,9 @@ C:\Users\toshiba\Desktop\Small Projects\CSharp\Fire\Fire\bin\Debug\Fire.exe
 C:\Users\toshiba\Desktop\Small Projects\CSharp\Fire\Fire\bin\Debug\Fire.pdb
 C:\Users\toshiba\Desktop\Small Projects\CSharp\Fire\Fire\obj\Debug\Fire.exe
 C:\Users\toshiba\Desktop\Small Projects\CSharp\Fire\Fire\obj\Debug\Fire.pdb
+C:\Users\toshiba\Desktop\Projects\CSharp-Projects\CSharp1\Fire\Fire\bin\Debug\Fire.exe.config
+C:\Users\toshiba\Desktop\Projects\CSharp-Projects\CSharp1\Fire\Fire\obj\Debug\Fire.exe
+C:\Users\toshiba\Desktop\Projects\CSharp-Projects\CSharp1\Fire\Fire\obj\Debug\Fire.pdb
+C:\Users\toshiba\Desktop\Projects\CSharp-Projects\CSharp1\Fire\Fire\bin\Debug\Fire.exe
+C:\Users\toshiba\Desktop\Projects\CSharp-Projects\CSharp1\Fire\Fire\bin\Debug\Fire.pdb
+C:\Users\toshiba\Desktop\Projects\CSharp-Projects\CSharp1\Fire\Fire\obj\Debug\Fire.csprojResolveAssemblyReference.cache
