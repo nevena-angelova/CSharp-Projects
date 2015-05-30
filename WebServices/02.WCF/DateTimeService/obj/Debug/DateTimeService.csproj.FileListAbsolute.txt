@@ -1,0 +1,4 @@
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\DateTimeService\bin\DateTimeService.dll
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\DateTimeService\bin\DateTimeService.pdb
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\DateTimeService\obj\Debug\DateTimeService.dll
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\DateTimeService\obj\Debug\DateTimeService.pdb

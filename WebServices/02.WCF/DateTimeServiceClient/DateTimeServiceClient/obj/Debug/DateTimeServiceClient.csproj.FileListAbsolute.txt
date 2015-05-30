@@ -1,0 +1,6 @@
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\DateTimeServiceClient\DateTimeServiceClient\bin\Debug\DateTimeServiceClient.exe.config
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\DateTimeServiceClient\DateTimeServiceClient\bin\Debug\DateTimeServiceClient.exe
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\DateTimeServiceClient\DateTimeServiceClient\bin\Debug\DateTimeServiceClient.pdb
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\DateTimeServiceClient\DateTimeServiceClient\obj\Debug\DateTimeServiceClient.csprojResolveAssemblyReference.cache
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\DateTimeServiceClient\DateTimeServiceClient\obj\Debug\DateTimeServiceClient.exe
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\DateTimeServiceClient\DateTimeServiceClient\obj\Debug\DateTimeServiceClient.pdb

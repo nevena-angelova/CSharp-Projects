@@ -37,3 +37,8 @@ C:\Users\toshiba\Desktop\Small Projects\TeamEuclaseProject\Restaurant\Restaurant
 C:\Users\toshiba\Desktop\Small Projects\TeamEuclaseProject\Restaurant\Restaurant\bin\Debug\Restaurant.exe
 C:\Users\toshiba\Desktop\Small Projects\TeamEuclaseProject\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
 C:\Users\toshiba\Desktop\Small Projects\TeamEuclaseProject\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\Projects\CSharp-Projects\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\toshiba\Desktop\Projects\CSharp-Projects\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\toshiba\Desktop\Projects\CSharp-Projects\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\toshiba\Desktop\Projects\CSharp-Projects\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\toshiba\Desktop\Projects\CSharp-Projects\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache

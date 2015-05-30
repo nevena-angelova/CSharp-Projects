@@ -1,0 +1,6 @@
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\WCFStringServices\StringsServiceLibrary\bin\Debug\StringsServiceLibrary.dll.config
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\WCFStringServices\StringsServiceLibrary\bin\Debug\StringsServiceLibrary.dll
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\WCFStringServices\StringsServiceLibrary\bin\Debug\StringsServiceLibrary.pdb
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\WCFStringServices\StringsServiceLibrary\obj\Debug\StringsServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\WCFStringServices\StringsServiceLibrary\obj\Debug\StringsServiceLibrary.dll
+D:\Telerik\Web Services and Cloud\Homework\02.WCF\WCFStringServices\StringsServiceLibrary\obj\Debug\StringsServiceLibrary.pdb
