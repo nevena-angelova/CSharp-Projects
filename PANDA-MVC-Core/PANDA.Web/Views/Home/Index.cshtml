@@ -1,0 +1,20 @@
+﻿@using PANDA.Services;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <h1>Welcome to PANDA Delivery Services</h1>
+    <hr />
+
+    @if (Identity.IsUserLogged())
+    {
+        <p> <a asp-action="Logout" asp-controller="Users">Logout</a> if you have an account</p>
+    }
+    else
+    {
+        <p> <a asp-action="Login" asp-controller="Users">Login</a> if you have an account</p>
+        <p><a asp-action="Register" asp-controller="Users">Register</a> if you don't.</p>
+    }
+</div>
