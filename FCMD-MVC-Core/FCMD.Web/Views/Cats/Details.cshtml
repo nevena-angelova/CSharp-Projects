@@ -1,0 +1,29 @@
+﻿@model FCMD.Models.Cat
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div>
+    <h1>@Html.DisplayFor(model => model.Name)</h1>
+    <dl class="dl-horizontal">
+        <dt>
+        </dt>
+        <dd>
+            <img src="@Model.Image" alt="@Model.Name" />
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Breed)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Breed)
+        </dd>
+    </dl>
+</div>

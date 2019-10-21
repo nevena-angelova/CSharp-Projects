@@ -1,0 +1,18 @@
+﻿@using FCMD.Models
+@model List<Cat>
+@{
+    ViewData["Title"] = "Fluffy Duffy Munchkin Cats";
+}
+
+<div class="row">
+    <h1>Fluffy Duffy Munchkin Cats</h1>
+    <ul>
+        @foreach (var cat in Model)
+        {
+            <li><a asp-action="details" asp-controller="cats" asp-route-id="@cat.Id">@cat.Name</a></li>
+        }
+    </ul>
+
+    <a asp-action="Add" asp-controller="Cats">Add Cat</a>
+
+</div>
